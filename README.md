@@ -121,4 +121,4 @@ The tool includes a review enhancement step to identify and incorporate missing 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL 2.0 License.
