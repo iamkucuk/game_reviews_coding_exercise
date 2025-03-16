@@ -1,0 +1,107 @@
+
+{
+  "reviews": [
+    {
+      "text": "From broken matchmaking to a graphical style that just doesn’t hit the mark as well as it should",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Matchmaking Issues"
+    },
+    {
+      "text": "graphical style that just doesn’t hit the mark as well as it should",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "microtransaction riddled costumes, items, and more",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Aggressive Microtransactions"
+    },
+    {
+      "text": "Square-Enix account log-in, an extra account that is needed to play the game",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Account System"
+    },
+    {
+      "text": "Paper-thin writing and extremely laughable voice acting",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Dialogue/Characters"
+    },
+    {
+      "text": "visual style of Babylon’s Fall just falls flat. Looking like a Playstation 3 game",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "excellent orchestral soundtrack, one that doesn’t belong in a game like this",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music"
+    },
+    {
+      "text": "Boss designs are astonishing and show that some love and care went into these fearsome foes",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Boss Design"
+    },
+    {
+      "text": "Microtransactions [...] $15 of your hard-earned cash",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Models"
+    },
+    {
+      "text": "combat lacks some punch, with most of your attacks feeling as if you are hitting your opponent with a wet pool noodle",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Feel/Responsiveness"
+    },
+    {
+      "text": "Multiplayer Functionality [...] cumbersome [...] no cross-server play",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Matchmaking Issues"
+    },
+    {
+      "text": "everything just feels incredibly 'grindy'...",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Repetition"
+    },
+    {
+      "text": "expansive roadmap [...] offering more story content",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Post-Launch Support"
+    },
+    {
+      "text": "can’t delete a character [...] oversight that should have been caught before release",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Character Management"
+    },
+    {
+      "text": "murky visuals, bland dungeon design, boring gameplay",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "excellent boss design and a killer soundtrack",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Boss Design"
+    },
+    {
+      "text": "no way [...] recommended as a full-priced title",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Value Proposition"
+    }
+  ]
+}

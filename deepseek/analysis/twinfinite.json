@@ -1,0 +1,136 @@
+{
+  "reviews": [
+    {
+      "text": "it’s almost impossible to recommend this over the other two games",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing"
+    },
+    {
+      "text": "any character created can’t be deleted later...may have something to do with the game’s battle pass",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Character Progression"
+    },
+    {
+      "text": "the story...doesn’t give you enough context...no way to look back on story events",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Delivery/Narrative Structure"
+    },
+    {
+      "text": "the game’s oil panting aesthetic...doesn’t look good",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "NPCs bear no actual purpose outside of giving context to story bits",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "NPC Utility"
+    },
+    {
+      "text": "missions themselves are horrendously bland...linear pathways",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "jumping...terribly floaty...air dash...hopelessly short",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Controls"
+    },
+    {
+      "text": "equipment enhancement locked until way too far into the story",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Progression Systems"
+    },
+    {
+      "text": "combat...decent ideas...weapons...interchangeably",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "combat...runs out of reasons to make you care",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "Quick Match is nice for completing missions with a group",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Multiplayer/Co-op"
+    },
+    {
+      "text": "cookie cutter levels...no exploration...tedious journey",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Variety"
+    },
+    {
+      "text": "graphics don’t make the game...Babylon’s Fall has none of that",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Overall Execution"
+    },
+    {
+      "text": "crafting gear...unlocked too late",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Progression Systems"
+    },
+    {
+      "text": "no sense of identity...poor comparison to free games",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Game Identity/Uniqueness"
+    },
+    {
+      "text": "Skirmishes don’t provide much more non-story missions that might be easier to quick match into",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Mission Variety"
+    },
+    {
+      "text": "You just gain XP as you go without any explanation or visible XP bar",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Information Clarity"
+    },
+    {
+      "text": "Character design is awful and leaves everyone devoid of expression",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "Combat turns into using only swords for Spectral Attacks as their Spirit Siphon and damage are high enough",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Weapon Balance"
+    },
+    {
+      "text": "no pop-up tutorial explaining any of this so you have to figure it out on your own",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Tutorials"
+    },
+    {
+      "text": "assuming it survives this rocky launch, there’s enough potential to maybe transform it into something much better in the future",
+      "category": "Longevity/Player Retention",
+      "sentiment": "neutral",
+      "sub_category": "Potential"
+    },
+    {
+      "text": "Babylon’s Fall is a live-service game, assuming it survives this rocky launch",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Launch Issues"
+    }
+  ]
+}

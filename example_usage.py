@@ -44,7 +44,7 @@ def main():
     
     # Choose your preferred LLM provider:
     # Options: "openai", "google", "groq", "openrouter", or "azure"
-    llm_provider = "openrouter"
+    llm_provider = "groq"
     
     # Specify a model when using OpenRouter
     # Examples:
@@ -61,7 +61,7 @@ def main():
     print("\n===== Processing Complete =====")
     for result in results:
         print(f"URL: {result['url']}")
-        print(f"Analysis file: {result['analysis_file']}")
+        print(f"Analysis file: {result['analysis_json_file']}")
         print(f"Report file: {result['report_file']}")
         print("-----------------------------")
 

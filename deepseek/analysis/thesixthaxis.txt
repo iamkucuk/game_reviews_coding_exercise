@@ -1,0 +1,77 @@
+
+{
+  "reviews": [
+    {
+      "text": "Babylon’s Fall is not one of those games. Instead, Platinum Games’ latest is a surprisingly dull affair, with repetitive gameplay, a bland story, and multiplayer where things are just too easy to provide any real challenge.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "Babylon’s Fall is a live service game, meaning it comes with a push to get players to engage with the marketplace and a battle pass to get better gear. [...] it seems lessons have not really been learned from other examples of live service games.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Implementation"
+    },
+    {
+      "text": "After every mission Babylon’s Fall throws loot at you, and often that free loot is more than enough to survive on. [...] character progression is amped up so that you don’t need to engage as deeply with some systems in the game.",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Progression Systems"
+    },
+    {
+      "text": "Even after clearing two cloisters you still cannot do the most basic of things in the game, which is visiting the blacksmith to enhance your weapons or get rid of gear you just do not need.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Progression Systems"
+    },
+    {
+      "text": "If you go solo it will take you time to get through the enemy encounters and provide a real challenge. However, if you a have a team of four you will be cutting through mobs and bosses with ease [...].",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Difficulty Scaling"
+    },
+    {
+      "text": "Babylon’s Fall is not a good looking game, either. It shoots for a painterly art style, but it instead feels as though you’re playing something from two generations ago [...].",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "In battle there is so much going on at times you cannot actually work out what is really happening, or the camera might suddenly end up behind a piece of the environment.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Performance Issues"
+    },
+    {
+      "text": "Mobs are slow to react to attacking you making them pretty easy to pick off, and with most bosses you can just stay back and hit them from range [...].",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Every dungeon follows the same basic pattern [...] three or four mob battles before fighting some kind of boss.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "The most engaging part of the game is experimenting with different weapons early on [...].",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Variety"
+    },
+    {
+      "text": "The music is forgettable and the story is just really dull.",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Quality"
+    },
+    {
+      "text": "Matchmaking works",
+      "category": "UI",
+      "sentiment": "positive",
+      "sub_category": "User Experience"
+    }
+  ]
+}

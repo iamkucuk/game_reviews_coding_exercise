@@ -1,0 +1,112 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon’s Fall is a baffling game that lacks any distinct vision, both in terms of gameplay and artistic design.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "At its core, Babylon’s Fall feels like a live service cash grab that lacks any cohesive vision.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Business Model"
+    },
+    {
+      "text": "Put up against Platinum’s previous blazingly-fast combat systems, Babylon’s Fall feels sluggish and unresponsive in comparison.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "It’s also easy to feel overwhelmed with the torrent of loot, currencies, battle points, and more thrown at you at any given moment.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Complexity/Overload"
+    },
+    {
+      "text": "Unfortunately, the game never goes anywhere interesting; the narrative never tries to seriously tackle the situation in which you find yourself.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Execution"
+    },
+    {
+      "text": "At the same time, Babylon’s Fall has a downright ugly visual style, missing the mark on what it’s trying to do. It goes for an oil painting aesthetic, but unfortunately, it makes Babylon’s Fall muddy and unfocused.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "This is coupled with atrocious character models that look like they were designed for a mobile game, rather than one for console.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "The abysmal character creator does nothing to help things along. It provides some of the worst options I’ve seen in a while. In particular, there are very few options for skin tone, providing practically nothing for players that want to create characters of color.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "The real problem, however, is that Babylon’s Fall seldom gives you interesting combat encounters. Each mission strings together combat encounters with a bit of platforming or the occasional environmental hazard. Battles are largely rinse-and-repeat affairs that have you hitting an enemy with a combo, dodging their attack, and then doing the same thing over again.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "There’s a big emphasis on completing daily missions and battle pass challenges to gain currency, cosmetics, and equipment. Of course, there’s quite a bit of grinding inherently involved in all that, and the dull mission design doesn’t help when you’re playing mission after mission.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "If there’s any singular highlight from my time with Babylon’s Fall , it’s the soundtrack. In terms of music, at least, the game matches the quality of your usual Square Enix fantasy game fare, with a nice mix of simple catchy tunes and epic orchestral tracks, especially the main theme.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Soundtrack"
+    },
+    {
+      "text": "It’s possible Babylon’s Fall could turn into something promising — someday — but it’s going to require nothing short of a complete overhaul.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Sustainability"
+    },
+    {
+      "text": "Platinum has created some of the most dynamic combat systems out there, like the slicing-and-dicing of Metal Gear Rising or the brilliant dual-character system of Astral Chain.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Comparative Quality"
+    },
+    {
+      "text": "Weapon options allow for some good variation.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Variety"
+    },
+    {
+      "text": "The idea of the Gideon Coffin is never realized fully.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics Depth"
+    },
+    {
+      "text": "There’s the briefest glimpse of something promising here, but it quickly gets buried under a mountain of tedium and tacked on live service elements.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Integration Issues"
+    },
+    {
+      "text": "Each mission strings together combat encounters with a bit of platforming or the occasional environmental hazard.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "Live service games survive on players sticking with the experience for months — sometimes years — but at the moment, there’s no good reason to stick with Babylon’s Fall.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Incentives"
+    }
+  ]
+}

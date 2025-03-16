@@ -1,0 +1,166 @@
+{
+  "reviews": [
+    {
+      "text": "The generic dark fantasy storyline is pointless",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Quality"
+    },
+    {
+      "text": "the worst-in-class textures and character models suck any visual appeal out of what could have been an interesting painted-canvas art style",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Combat and level design are both competent but plain in single-player or co-op, with just enough good ideas sprinkled in to keep things from immediately growing stale… though it inevitably does",
+      "category": "Combat",
+      "sentiment": "neutral",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Each level follows the same template: You load into a quest and run from point A to point B, navigating linear corridors as you race to your objective",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "A noticeable, persistent input lag, coupled with an unusually flat arc, makes gauging jumps more frustrating than it should be",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Performance Issues"
+    },
+    {
+      "text": "The ability to level up a favorite piece of equipment is held until late in the campaign...forces you to jump around between different weapon combinations",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "the endgame...has its share of pitfalls that make the idea of sinking more time into Babylon’s Fall unappealing",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Endgame Content"
+    },
+    {
+      "text": "Babylon’s Fall offers both free and premium versions of its battle pass...it’s always disappointing to see pay-to-win scenarios",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "joining up with a group of Sentinels has no strategic value beyond making missions pass more quickly",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Experience"
+    },
+    {
+      "text": "the painterly art direction had potential to be interesting, but it never gets the chance because Babylon’s Fall is one of the worst-looking games",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Art Style Execution"
+    },
+    {
+      "text": "Battling an undead dragon...is just another hit box to tune out to while you stare at a health bar, running the same sequence of attacks",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "Randomized enchantments add a much-needed element of unpredictability",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "There is a hub town shared by players with quest boards, item shops, and a blacksmith...but there is little incentive to try and create synergy between one loadout and another",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Social Features"
+    },
+    {
+      "text": "Babylon’s Fall just isn’t good. It’s not terrible or broken, it just 'is'",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Overall Experience"
+    },
+    {
+      "text": "Platinum Games’ answer to these prompts are Sentinel, Babylon, the Gallus, and Gideon Coffin, respectively – there’s nothing remotely memorable about any of those things except the last",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Character/World Building"
+    },
+    {
+      "text": "The story is largely told in exposition-heavy still images, zooming from one fibrous picture frame to another",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Storytelling Method"
+    },
+    {
+      "text": "Lighting is almost non-existent, and NPCs all look like they were made by a random character generator from the mid 2000s",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Lighting/NPC Design"
+    },
+    {
+      "text": "Knights with unsettling body proportions battle you in one area, while you face off against a giant spider/human hybrid with a skull for an abdomen in others",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Enemy Design"
+    },
+    {
+      "text": "Transparent barriers occasionally form around you to create a sealed arena in which you’re barraged by waves of generic enemies until you slay an arbitrary number of foes",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Arena Design"
+    },
+    {
+      "text": "Environmental hazards like pits, spikes, and lava do just enough to keep at least some attention on the field of play, but it is easy to zone out",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Environmental Hazards"
+    },
+    {
+      "text": "One has you ducking for cover at regular intervals as a dragon strafes the battlefield with fire, while another has you ascending a mountain by leaping from one floating platform to another",
+      "category": "Gameplay Loop",
+      "sentiment": "neutral",
+      "sub_category": "Level Variety"
+    },
+    {
+      "text": "some – like the sphere that protects you from a hazardous atmosphere at the expense of disabling your best attacks – are genuinely annoying",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Level Mechanics"
+    },
+    {
+      "text": "against tougher enemies it does devolve into extended bouts of pure button-mashing while you watch health bars slowly decrease",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "There are limited archetypes in each category so you will see the exact same swords and hammers dozens of times",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Loot Variety"
+    },
+    {
+      "text": "there are no character classes with defined roles like damage-dealing, tanking, or support",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Class System"
+    },
+    {
+      "text": "rewards tiers could potentially affect player performance, including crafting materials used to create weapons and armor, and Conches, the in-game currency that can be used to purchase XP boosts",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Win Elements"
+    },
+    {
+      "text": "Babylon’s Fall feels like the generic store brand of more famous games that came before",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Originality"
+    }
+  ]
+}

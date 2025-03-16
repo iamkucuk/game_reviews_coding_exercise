@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon’s Fall is unsatisfying. Nearly every aspect of the game is either monotonous, unappealing, or confusing. The story is grating, the combat is dull, the visuals are muddled, and the mission structure is bland.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Overall Impression"
+    },
+    {
+      "text": "Within the first few minutes of playing, I’m warned that I must link a Square Enix profile to my character and that I am unable to delete the character that I create (I suspect this is due to the battle pass).",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Account Requirements"
+    },
+    {
+      "text": "The visuals are easily among the weakest I’ve seen for a title from a major publisher in some time... The art style is meant to evoke European oil paintings... In practice, it makes Babylon’s Fall look like, at best, a game from the PS3-era.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "The story itself is forgettable in the best of times and grating at the worst... The writing is weak, with the characters given little time to develop outside the broadest strokes.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Quality"
+    },
+    {
+      "text": "The combat in Babylon’s Fall is slow and awkward... enemies have far too much health, causing fights to descend into repetitive attacks that take longer than they should.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Pacing/Difficulty"
+    },
+    {
+      "text": "Each mission you go on follows the same format. You will journey through linear corridors... It is endless corridors, made different only by the layer of the Ziggurat that you are fighting in.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetition"
+    },
+    {
+      "text": "How do you engage in multiplayer with friends? Figure it out yourself. How do you get rid of the notification for items in your inbox? Figure it out yourself.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Usability"
+    },
+    {
+      "text": "The introduction of new elements, crafting, and other mechanics late in the game does nothing to alleviate the growing boredom... the equipment you wield is more often than not used solely because it has a bigger power level on it.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Progression"
+    },
+    {
+      "text": "The utter grind that is levelling up the battle pass.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Grind"
+    },
+    {
+      "text": "Even if the game was free-to-play, I still wouldn’t recommend it to anyone. It’s just that bad.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Overall Impression"
+    },
+    {
+      "text": "Cutscenes are stilted and overlong, though not much information is presented within them funnily enough.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Presentation"
+    },
+    {
+      "text": "Not that the choices you choose in creation matter that much — beyond the sparse customization options, the only slightly noteworthy choice involves picking one of three races, which doesn’t have much of an effect in the grand scheme of things, it turns out.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "You take control of a Sentinel, a prisoner of a vast empire who has been outfitted with a special device called a Gideon’s Coffin to explore a tower called Ziggurat and fight monsters called Gallu that lie within.",
+      "category": "Story",
+      "sentiment": "neutral",
+      "sub_category": "Premise"
+    },
+    {
+      "text": "I’m not asking to be handheld through every element of the game, but considering that a large portion of the introduction is spent pointing out the microtransaction shop, some time could have been better spent elsewhere.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Focus"
+    },
+    {
+      "text": "Beyond the shop and the mission board, nothing is ever explained or presented effectively in between missions.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Guidance"
+    },
+    {
+      "text": "The puzzles are repetitive, and you will see the same ones again and again.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Puzzle Design"
+    },
+    {
+      "text": "The inability to change your equipment mid-mission",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Flexibility"
+    },
+    {
+      "text": "The strange and awkward presentation of the UI.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Visual Design"
+    },
+    {
+      "text": "The characters are of particularly low quality, with the aesthetic making them look muddled and stiff when they move.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "It’s an interesting idea that is hobbled by one major problem — the combat in Babylon’s Fall is slow and awkward.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Concept"
+    }
+  ]
+}

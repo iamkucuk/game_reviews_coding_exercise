@@ -1,0 +1,89 @@
+
+{
+  "reviews": [
+    {
+      "text": "The generic dark fantasy storyline is pointless",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Quality"
+    },
+    {
+      "text": "the worst-in-class textures and character models suck any visual appeal out of what could have been an interesting painted-canvas art style",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Combat and level design are both competent but plain in single-player or co-op, with just enough good ideas sprinkled in to keep things from immediately growing stale… though it inevitably does",
+      "category": "Combat",
+      "sentiment": "neutral",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Each level follows the same template: You load into a quest and run from point A to point B, navigating linear corridors as you race to your objective",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "A noticeable, persistent input lag, coupled with an unusually flat arc, makes gauging jumps more frustrating than it should be",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Performance Issues"
+    },
+    {
+      "text": "The ability to level up a favorite piece of equipment is held until late in the campaign...forces you to jump around between different weapon combinations",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "the endgame...has its share of pitfalls that make the idea of sinking more time into Babylon’s Fall unappealing",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Endgame Content"
+    },
+    {
+      "text": "Babylon’s Fall offers both free and premium versions of its battle pass...it’s always disappointing to see pay-to-win scenarios",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "joining up with a group of Sentinels has no strategic value beyond making missions pass more quickly",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Experience"
+    },
+    {
+      "text": "the painterly art direction had potential to be interesting, but it never gets the chance because Babylon’s Fall is one of the worst-looking games",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Art Style Execution"
+    },
+    {
+      "text": "Battling an undead dragon...is just another hit box to tune out to while you stare at a health bar, running the same sequence of attacks",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "Randomized enchantments add a much-needed element of unpredictability",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "There is a hub town shared by players with quest boards, item shops, and a blacksmith...but there is little incentive to try and create synergy between one loadout and another",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Social Features"
+    },
+    {
+      "text": "Babylon’s Fall just isn’t good. It’s not terrible or broken, it just 'is'",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Overall Experience"
+    }
+  ]
+}

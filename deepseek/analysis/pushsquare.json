@@ -1,0 +1,148 @@
+{
+  "reviews": [
+    {
+      "text": "we fell asleep playing Babylon’s Fall . Multiple times . Sat there in an office chair, DualSense in hand, fast asleep",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "The first thing that struck us about Babylon's Fall is its atrocious visuals [...] in places—Babylon’s Fall really does look like a PS3 title",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "generic and confusing menus, and a hub world filled to the brim with distracting icons—yet none of them are actually helpful",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Design"
+    },
+    {
+      "text": "A chest is not an inbox, Platinum. It's just a regular box",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Clarity"
+    },
+    {
+      "text": "the game doesn't trust you to make your own way, forcing you to avoid clear shortcuts simply because they're not the right way",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Player Agency"
+    },
+    {
+      "text": "relatively slick Platinum-style combat [...] you'll simply find the shoulder button [...] and mash that instead",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "the loot aspect of the game is shockingly unengaging [...] weapons essentially amount to an extended game of 'number go up'",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "watching the mindless battle unfold wasn't that different to actually being in there and mashing the buttons ourselves",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Depth"
+    },
+    {
+      "text": "cynical microtransactions in a £50 game",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing"
+    },
+    {
+      "text": "we found ourselves inexplicably locked out of battle arenas",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Glitches"
+    },
+    {
+      "text": "the boss battles could be mistaken for something spectacular by a passive observer",
+      "category": "Combat",
+      "sentiment": "neutral",
+      "sub_category": "Boss Design"
+    },
+    {
+      "text": "Truly ugly",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Loot is bland, unexciting",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "Almost no redeeming qualities",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Overall Quality"
+    },
+    {
+      "text": "Peak GaaS (games as a service) design strategy slides lifelessly off the production line at Platinum",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Model"
+    },
+    {
+      "text": "In a game that's about 90 per cent combat by volume, you need visual clarity — and that's simply not present here.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Visual Clarity"
+    },
+    {
+      "text": "the major gimmick here being your character's 'Gideon Coffin', a spectral armament that allows you to equip up to four weapons at the same time.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Gimmick Mechanics"
+    },
+    {
+      "text": "some of the vistas are admittedly impressive- ish",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Even bringing in friends doesn't improve matters — you barely need to interact with them, so you basically just end up wasting four people's time instead of just your own.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Experience"
+    },
+    {
+      "text": "Different builds are certainly possible, but the enemies aren't unique or threatening enough to make character progression feel like it matters, even in the endgame skirmishes.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Enemy Design & Progression"
+    },
+    {
+      "text": "Platinum and Square Enix have stumbled into the 'games as a service' arena here",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Model"
+    },
+    {
+      "text": "the soulless Milton Keynes of gaming already overflowing with titles rivalling for an audience",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Market Saturation"
+    },
+    {
+      "text": "Given the nature of live service titles it's possible that Babylon's Fall could see a phoenix-style resurrection with some rebalancing, but somehow, we doubt it.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "neutral",
+      "sub_category": "Future Potential"
+    },
+    {
+      "text": "the presentation is rather lacking in general",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Overall Presentation"
+    }
+  ]
+}

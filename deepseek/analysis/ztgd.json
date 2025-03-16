@@ -1,0 +1,100 @@
+{
+  "reviews": [
+    {
+      "text": "the combat in Babylon’s Fall can be fun initially but grows repetitive and stale quickly",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "Players are equipped with a weird device called a ‘Gideon Coffin’ which holds the players weapons and allows them to equip 4 at a time. The use of 4 weapons at once is fun in practice and allows for some cool damage setups but little else",
+      "category": "Gameplay Loop",
+      "sentiment": "neutral",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "the combat in Babylon’s Fall is extremely limited with most combos happening just by simply holding the appropriate button",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "the designs of most enemies are boring and repetitive... Players will spend their time running down mostly empty hallways",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Enemy/Environment Design"
+    },
+    {
+      "text": "It’s clearly a ‘Game as a Service’... cash shop... prominently displayed... $59.99 (or $99.99 for deluxe)",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Model"
+    },
+    {
+      "text": "This is hands down the ugliest game... bland, dull overly animated mess... ‘brush stroke’ effect... just plain ugly",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the story is pretty all over the place... makes more sense than this story",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Coherence"
+    },
+    {
+      "text": "Everything unfolds at a snail’s pace... can’t craft weapons or utilize the true power of the ‘Gideon Coffin’ until later",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Progression Pacing"
+    },
+    {
+      "text": "Even the co-op is boring... no cool team-up combos",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "they toned down [brush strokes] in the final release... you won’t get sick from looking at it in motion",
+      "category": "Technical Problems",
+      "sentiment": "neutral",
+      "sub_category": "Performance"
+    },
+    {
+      "text": "It just feels like its supposed to be a free-to-play game, nothing about it screams its asking price",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Value Proposition"
+    },
+    {
+      "text": "Players will create a Sentinal with a limited character creator in order to ascend the tower of Babylon",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "It’s all very ‘FromSoftware’ in its approach to the story reveal but its not done ANYWHERE near as well as Elden Ring",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "There is a cash shop, because of course there is and its very prominently displayed and explained",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Prominence"
+    },
+    {
+      "text": "Avengers at least looks freaking fantastic AND has a great single player story; Babylon’s Fall unfortunately can’t say it has either",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Comparisons"
+    },
+    {
+      "text": "Everything about this game is just so puzzling that I am starting to think that maybe its some sort of meta deal",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Design Philosophy"
+    }
+  ]
+}

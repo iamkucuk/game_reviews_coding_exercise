@@ -1,0 +1,118 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon’s Fall comes from a team with plenty of pedigree but falls flat thanks to grindy combat and a focus on keeping you playing with no real reason to invest.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Repetition"
+    },
+    {
+      "text": "Square Enix’s Babylon’s Fall is a game as a service that forgot much of the basics for the model – namely, it’s not a fun game to play.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Core Mechanics"
+    },
+    {
+      "text": "the Sentinels’ HQ just lacks soul.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Environment Design"
+    },
+    {
+      "text": "the game’s art style is sure to be divisive... characters look closer to PS3-era models, and everything just feels a little smudged.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "combat is just as flashy as you’d expect from a Platinum title – all blades, sparks, and plenty of combos... never feels particularly fluid or lethal.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Fluidity"
+    },
+    {
+      "text": "hammering away at enemies doing very little damage, chipping away at health bars.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Satisfaction"
+    },
+    {
+      "text": "enemies hit much harder than you do... prompted smart strategy considerations about who to hit first.",
+      "category": "Balancing",
+      "sentiment": "neutral",
+      "sub_category": "Enemy Difficulty"
+    },
+    {
+      "text": "premium battle pass is advertised before you even start the campaign... Babylon’s Fall is a full-priced game.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Model"
+    },
+    {
+      "text": "loot system that feels inconsequential... designed for 'whales.'",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "determined to pull players through with meager rewards... not a fun game.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Player Incentives"
+    },
+    {
+      "text": "combat is barebones and clunky... impossible to recommend as a full-priced title.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Complexity"
+    },
+    {
+      "text": "It’s not the most unique story, not helped by the hammiest voice acting we’ve heard in 2022 so far",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Quality"
+    },
+    {
+      "text": "a wealth of forgettable characters",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Character Development"
+    },
+    {
+      "text": "daily login page that feels ripped from a mobile title (complete with signal status in the top corner)",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "UX Design"
+    },
+    {
+      "text": "light platforming... some areas feel so easy it’s like the game is on autopilot",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "spikes will leap from the floor with barely any time to react",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "After each fight, you’ll be awarded a ranking for your performance... hard to attain the higher rankings",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Reward System"
+    },
+    {
+      "text": "how limited the game’s in-game customization is",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Customization Options"
+    },
+    {
+      "text": "Even playing with friends isn’t enough to bring this game back from the brink",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Experience"
+    }
+  ]
+}

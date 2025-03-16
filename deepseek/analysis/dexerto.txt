@@ -1,0 +1,71 @@
+
+{
+  "reviews": [
+    {
+      "text": "Babylon’s Fall comes from a team with plenty of pedigree but falls flat thanks to grindy combat and a focus on keeping you playing with no real reason to invest.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Repetition"
+    },
+    {
+      "text": "Square Enix’s Babylon’s Fall is a game as a service that forgot much of the basics for the model – namely, it’s not a fun game to play.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Core Mechanics"
+    },
+    {
+      "text": "the Sentinels’ HQ just lacks soul.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Environment Design"
+    },
+    {
+      "text": "the game’s art style is sure to be divisive... characters look closer to PS3-era models, and everything just feels a little smudged.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "combat is just as flashy as you’d expect from a Platinum title – all blades, sparks, and plenty of combos... never feels particularly fluid or lethal.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Fluidity"
+    },
+    {
+      "text": "hammering away at enemies doing very little damage, chipping away at health bars.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Satisfaction"
+    },
+    {
+      "text": "enemies hit much harder than you do... prompted smart strategy considerations about who to hit first.",
+      "category": "Balancing",
+      "sentiment": "neutral",
+      "sub_category": "Enemy Difficulty"
+    },
+    {
+      "text": "premium battle pass is advertised before you even start the campaign... Babylon’s Fall is a full-priced game.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Model"
+    },
+    {
+      "text": "loot system that feels inconsequential... designed for 'whales.'",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "determined to pull players through with meager rewards... not a fun game.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Player Incentives"
+    },
+    {
+      "text": "combat is barebones and clunky... impossible to recommend as a full-priced title.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Complexity"
+    }
+  ]
+}

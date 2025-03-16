@@ -1,0 +1,148 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon’s Fall is categorically one of the most disappointing games of the generation so far...",
+      "category": "Content",
+      "sub_category": "Reception",
+      "sentiment": "negative"
+    },
+    {
+      "text": "From ham-fisted live service integration...",
+      "category": "Monetization",
+      "sub_category": "Live Service Integration",
+      "sentiment": "negative"
+    },
+    {
+      "text": "visuals that would make 2003’s Morrowind look like a Picasso masterpiece...",
+      "category": "Art Design/Direction",
+      "sub_category": "Visual Quality",
+      "sentiment": "negative"
+    },
+    {
+      "text": "trying different combinations of swords, wands, bows, and hammers to build your character’s loadout is actually quite enjoyable.",
+      "category": "Combat",
+      "sub_category": "Customization",
+      "sentiment": "positive"
+    },
+    {
+      "text": "Each mission is broken into chapters... I found these scores and accolades to be a whole bunch of white noise...",
+      "category": "Gameplay Loop",
+      "sub_category": "Mission Structure",
+      "sentiment": "negative"
+    },
+    {
+      "text": "Babylon’s Fall should have been a single-player action RPG.",
+      "category": "Content",
+      "sub_category": "Game Structure",
+      "sentiment": "negative"
+    },
+    {
+      "text": "Almost immediately after starting the game, the player is assaulted with prompts for battle passes, premium currencies...",
+      "category": "Monetization",
+      "sub_category": "Live Service Integration",
+      "sentiment": "negative"
+    },
+    {
+      "text": "the graphical quality is just so far below what would be considered acceptable...",
+      "category": "Art Design/Direction",
+      "sub_category": "Visual Quality",
+      "sentiment": "negative"
+    },
+    {
+      "text": "Square Enix hasn’t provided a stable enough framework for Babylon’s Fall to exist as a live service game... servers were down.",
+      "category": "Technical Problems",
+      "sub_category": "Server Stability",
+      "sentiment": "negative"
+    },
+    {
+      "text": "the menus make no sense... felt like I had to study a full undergraduate degree...",
+      "category": "UI",
+      "sub_category": "Navigation",
+      "sentiment": "negative"
+    },
+    {
+      "text": "The voice acting is on another level of cringe...",
+      "category": "Sound Design",
+      "sub_category": "Voice Acting",
+      "sentiment": "negative"
+    },
+    {
+      "text": "the onboarding and guidance given are next to nothing...",
+      "category": "Content",
+      "sub_category": "Tutorials",
+      "sentiment": "negative"
+    },
+    {
+      "text": "Platinum Games truly are the kings of combat... hacking and slashing your way through... is at least occasionally kind of fun.",
+      "category": "Combat",
+      "sub_category": "Mechanics",
+      "sentiment": "positive"
+    },
+    {
+      "text": "From a dismal effort on graphics, UI, player onboarding... Babylon’s Fall is a failure.",
+      "category": "Content",
+      "sub_category": "Overall Quality",
+      "sentiment": "negative"
+    },
+    {
+      "text": "babylon’s Fall is going to flop… and it really cannot be understated how hard it flopped",
+      "category": "Launch Timing",
+      "sub_category": "Market Performance",
+      "sentiment": "negative"
+    },
+    {
+      "text": "players assume the role of a ‘Sentinal’, a slave-soldier of the Empire, and are tasked with conquering the ancient Tower of Babel and plunder its fabled treasures",
+      "category": "Story",
+      "sub_category": "Premise",
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Gideon Coffin grafted to each one’s back, the Sentinal’s arsenal is expanded with two spectral weapons",
+      "category": "Combat",
+      "sub_category": "Loadout Mechanics",
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A strange approach, but it is what it is",
+      "category": "Gameplay Loop",
+      "sub_category": "Mission Structure",
+      "sentiment": "negative"
+    },
+    {
+      "text": "there isn’t anything... nice to listen to",
+      "category": "Sound Design",
+      "sub_category": "Sound Quality",
+      "sentiment": "negative"
+    },
+    {
+      "text": "Games have bounced back from disastrous launches in the past",
+      "category": "Launch Timing",
+      "sub_category": "Market Perception",
+      "sentiment": "negative"
+    },
+    {
+      "text": "the side characters are hollow and often annoying",
+      "category": "Story",
+      "sub_category": "Character Development",
+      "sentiment": "negative"
+    },
+    {
+      "text": "a bloated, messy, uninspired disaster",
+      "category": "Content",
+      "sub_category": "Overall Quality",
+      "sentiment": "negative"
+    },
+    {
+      "text": "I found great difficulty connecting with others to play the game in co-op",
+      "category": "Technical Problems",
+      "sub_category": "Multiplayer Connectivity",
+      "sentiment": "negative"
+    },
+    {
+      "text": "From the same pairing that brought us Nier Automata",
+      "category": "Launch Timing",
+      "sub_category": "Expectations",
+      "sentiment": "negative"
+    }
+  ]
+}

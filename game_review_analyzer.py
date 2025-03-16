@@ -37,8 +37,8 @@ class ReviewAnalysis(BaseModel):
 # Global constants for max tokens
 MAX_OUTPUT_TOKENS = {
     "openai": 8192,         # GPT-4 max tokens
-    "google": 8192,         # Gemini max tokens
-    "groq": 8192,           # Groq max tokens
+    "google": 38192,         # Gemini max tokens
+    "groq": 38192,           # Groq max tokens
     "openrouter": 8192,     # Default for OpenRouter
     "azure": 8192,          # Azure OpenAI default
 }
@@ -138,9 +138,9 @@ def get_llm(provider: str = "openai", model: str = None):
             max_tokens=MAX_OUTPUT_TOKENS["azure"]
         )
     elif provider == "google":
-        return ChatGoogleGenerativeAI(model="gemini-pro", temperature=0, max_output_tokens=MAX_OUTPUT_TOKENS["google"])
+        return ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0, max_output_tokens=MAX_OUTPUT_TOKENS["google"])
     elif provider == "groq":
-        return ChatGroq(model_name="llama3-70b-8192", temperature=0, max_tokens=MAX_OUTPUT_TOKENS["groq"])
+        return ChatGroq(model_name="qwen-qwq-32b", temperature=0, max_tokens=MAX_OUTPUT_TOKENS["groq"])
     elif provider == "openrouter":
         if model:
             return get_openrouter(model=model)
@@ -217,7 +217,7 @@ def execute_llm_for_json(llm, prompt_template, inputs, max_retries: int = 5):
             raw_response = raw_response.content
             raw_response = raw_response.replace('```json', '')  # Remove code block formatting
             raw_response = raw_response.replace('```', '')  # Remove code block formatting
-
+            raw_response = raw_response.split("</think>", 1)[1]
             # Try to parse JSON directly
             try:
                 json_data = json.loads(raw_response)
@@ -494,11 +494,16 @@ def process_game_reviews(urls: List[str], analysis_prompt: str, report_prompt: s
         # Step 2: Generate report
         print("Step 2: Generating report...")
         report = generate_report(url, content, analysis_json, report_prompt, provider, model)
-        
+        report = getattr(report, 'content', report)
+        report = report.split("</think>", 1)[-1]
+        report = report.replace('```markdown', '')
+        report = report.replace('```', '')
+        report = report.strip()
+
         # Save report
-        report_file = os.path.join("report", f"{website_name}.txt")
+        report_file = os.path.join("report", f"{website_name}.md")
         with open(report_file, "w") as f:
-            f.write(getattr(report, 'content', report))
+            f.write(report)
         print(f"Report saved to {report_file}")
         
         results.append({

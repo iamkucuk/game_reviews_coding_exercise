@@ -1,0 +1,142 @@
+{
+  "reviews": [
+    {
+      "text": "The main issue with the graphics is a terribly unfortunate water paint filter over everything... But for the majority of the time, the filter just highlights the poor texture work... it just looks horrible.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "The combat can be fun for a time, though it’s repetitive nature quickly turns to a boring grind.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "The game is mostly zoomed out in its camera view due to the gameplay, but once the designers decide to zoom the camera in for cutscenes, it really shows off how bad the facial animations, textures, and environment can look.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Animation/Textures"
+    },
+    {
+      "text": "The underwater filter can clash with the water paint filter to make some incredibly hard locations to see... it was starting to give me headaches.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Clarity"
+    },
+    {
+      "text": "So far, it can be quite tough to find people online to play with... the game is cross-region locked... there has been a little bit of lag playing online.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Matchmaking & Connectivity"
+    },
+    {
+      "text": "The 4 different weapons you can equip at the same time also helps with making the combat fun and interesting to create different builds... They’re fun, but to get this ability you need to put in at least 10-12 hours...",
+      "category": "Gameplay Loop",
+      "sentiment": "neutral",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "Crafting can be a lot of fun as you look at the slots you are lacking and are able to craft to get them up so the next time you run the level, you will have a higher chance of getting slightly higher gear.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Customization"
+    },
+    {
+      "text": "Purchasing other items though with real money, is always an option... the game seems to really lack vanity items to unlock in game... everyone pretty much looks the same for a very long time.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Variety"
+    },
+    {
+      "text": "The music is incredibly well done, and is probably one of its best aspects... It starts off calm most of the time, and ramps up perfectly with the combat.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Soundtrack"
+    },
+    {
+      "text": "With some nice quality of life improvements and constant support I feel there could be a decent game here, but right now it has too many flaws.",
+      "category": "Launch Timing",
+      "sentiment": "neutral",
+      "sub_category": "Development Readiness"
+    },
+    {
+      "text": "It has the traditional live service real life purchases, with a real money store that currently only allows purchase of cosmetic skins...",
+      "category": "Monetization",
+      "sentiment": "neutral",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "You have to create a private HQ, then give your friend the code to get into the room... This took us a little bit of time to understand.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Interface"
+    },
+    {
+      "text": "Power Mode... but Technical mode... My big problem is, this feels like something you should get near the start of the game and not something you get at the end of it.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Progression Pacing"
+    },
+    {
+      "text": "The lava cave also looked really pretty, but the big issue is these moments are too far apart...",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Environmental Variety"
+    },
+    {
+      "text": "Despite the grind, I do find myself enjoying the combat though... the music.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Core Mechanics"
+    },
+    {
+      "text": "Games aren’t just about graphics, but they’re part of a game’s first impression, and it’s not a great start when the introduction cutscene looks like something from two generations ago.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "First Impression"
+    },
+    {
+      "text": "The environment would also be its own issue, as areas that required you use a light source made combat plenty more tiresome.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Environmental Design Issues"
+    },
+    {
+      "text": "I do hope they decide to remove the barrier for online play at some point, so that there’s a larger community for online play.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Cross-Region Restrictions"
+    },
+    {
+      "text": "You can also purchase boosters with in game credits that will increase your drop rate for items, currency and exp. Later on this was expanded with some other boosters. You can only have one booster on at a time, and they last 1 hour. Thankfully, the booster will pause if you go offline, so you don’t have to worry about them when logging off.",
+      "category": "Gameplay Loop",
+      "sentiment": "neutral",
+      "sub_category": "Boost System"
+    },
+    {
+      "text": "My coffin was the ability to soul vault to enemies, and I felt like this didn’t work all the time and you had to be really precise, just to be able to target the enemy.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Mechanical Bugs"
+    },
+    {
+      "text": "It has taken the good parts of Nier, and added a fun online twist with friends.",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Inspiration/Innovation"
+    },
+    {
+      "text": "This outfit though is from the battle pass, which for the first season everyone gets the premium battle pass for free with the purchase of the game. Which I think to be a good practice, as a way of giving back to those players who are jumping into a new live service game, and allowing everyone a chance to get the whole battle pass.",
+      "category": "Monetization",
+      "sentiment": "positive",
+      "sub_category": "Battle Pass System"
+    },
+    {
+      "text": "It also didn’t help that the orbs of light which annoyingly take the place of your spectral weapons while in use don’t even light up the environment well. I still greatly struggled to see.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Environmental Interaction"
+    }
+  ]
+}

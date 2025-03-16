@@ -1,0 +1,71 @@
+
+{
+  "reviews": [
+    {
+      "text": "It's a great game shoved into a terrible one.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "That boss. I actually thought the fight and boss’ attack patterns were really interesting... But with a health bar clearly balanced for four people... what should have been a fun encounter turned into a nightmare.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Boss Difficulty"
+    },
+    {
+      "text": "Having four different weapon slots that function differently brings such an interesting dynamic to how you gear up your character.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Equipment System"
+    },
+    {
+      "text": "Platinum has done a really good job of building a mythological Babylon into this thing... the game might take place in a 'Neo-Babylon', but the developers have given us something that feels carefully researched and authentic.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "World Design"
+    },
+    {
+      "text": "The art style really brings it to life, too—the focus on blue and gold hues, and the Renaissance-esque finish... The designs of the monsters, especially, stand out.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "All the necessities of this live service format constantly get in the way... without constant reminders about battle passes and daily quests disrupting the mood.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Live Service Disruption"
+    },
+    {
+      "text": "The loot comes in thick and fast, and it’s the one thing about the live service structure that I think benefits Babylon’s Fall.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Equipment System"
+    },
+    {
+      "text": "The boss battles have some of the best fantasy RPG music I’ve seen since FFXIV itself.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music"
+    },
+    {
+      "text": "The game is surprisingly good at respecting the player’s time... you can get in, get a chapter done, and then start fresh the next time at an all-new chapter.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Structure"
+    },
+    {
+      "text": "What a ridiculous time to launch it, so close to Horizon and Elden Ring.",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Market Timing"
+    },
+    {
+      "text": "Longevity and player base could be a problem in the future... I wouldn’t write off random grouping entirely.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Player Base Sustainability"
+    }
+  ]
+}

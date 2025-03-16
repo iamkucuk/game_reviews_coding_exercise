@@ -1,0 +1,107 @@
+
+{
+  "reviews": [
+    {
+      "text": "When customizing my character, I was almost stunned by how poor some of the options were. When trying to change my skin tone, I realized that the darkest skin tone was incredibly light, no where near as dark as a lot of the people that will play this game. I’m used to character creators that don’t really let me create avatars that look like me, but Babylon’s Fall felt like a new low.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "Babylon’s Fall doesn’t lock you out of using specific weapons due to your class.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Class Flexibility"
+    },
+    {
+      "text": "The story and its dull characters... They really try to pull you into the narrative with extensive dialogue sequences and cutscenes that just go on and on.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Elements"
+    },
+    {
+      "text": "Cutscenes are hardly enjoyable with the robotic character animations.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Animation Quality"
+    },
+    {
+      "text": "The combat itself feels dated and slow. Animations rarely blend smoothly into each other, and there isn't much depth to strategy outside of using different abilities and weapon types. Most battles came down to me spamming attacks.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Movement in general feels clunky. Running, jumping, or rolling all feel sloppy.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Movement Mechanics"
+    },
+    {
+      "text": "Online co-op was decent enough fun. Playing with other characters... was a pretty good time.",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Co-op Play"
+    },
+    {
+      "text": "Focus on being an always-online, live-service game... feels formulaic.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Business Model"
+    },
+    {
+      "text": "Premium Battle Pass features resources like ingots and Conches... likely cause pay-to-win concerns.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Win Elements"
+    },
+    {
+      "text": "Gameplay loop of completing quests, defeating enemies, and upgrading gear delivered a sense of progression.",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Progression"
+    },
+    {
+      "text": "Feels outdated, like something from the early PS3 era. Can’t hold a candle to recent action-RPGs.",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Market Positioning"
+    },
+    {
+      "text": "Art style inspired by medieval oil paintings... contributes to the outdated feel. Generic fantasy environments.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Style/Environments"
+    },
+    {
+      "text": "Solid original character designs.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "Stiff animations hinder attempts to establish a lively world.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Animation Quality"
+    },
+    {
+      "text": "Score is solid, with moments where music kicks in perfectly (e.g., tavern themes, boss fight tracks).",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Soundtrack"
+    },
+    {
+      "text": "Live-service elements lack engagement incentives despite being core to the experience.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "Technically competent; not broken or held back by major bugs.",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Stability"
+    }
+  ]
+}

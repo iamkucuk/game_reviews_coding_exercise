@@ -1,0 +1,106 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon’s Fall is a dull and cynical service game",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Overall Quality"
+    },
+    {
+      "text": "the visual style that’s incredibly unappealing",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "mission structure that is somehow both dreadfully short and tedious",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Design"
+    },
+    {
+      "text": "filling your screen with as many opportunities to micro-transact as it can, despite the fact it actually costs $60 to purchase",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Model"
+    },
+    {
+      "text": "Babylon’s Fall’s low detail look is supposed to evoke a moving oil painting, but in practice, it’s not been implemented well at all",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Execution"
+    },
+    {
+      "text": "the game’s sludgy, low-quality characters look like you’ve zoomed in on the crowd of a PS2 racing game",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "PlatinumGames is renowned for its excellent combat systems... Babylon’s systems prove so mediocre",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Enemies have way, way too much health. This doesn’t make them hard... it just means that you’re slapping away at them endlessly",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Enemy Design"
+    },
+    {
+      "text": "DualSense integration is so weirdly aggressive that after a few missions we had to take a break because our hands were straining",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Control Issues"
+    },
+    {
+      "text": "terrible mission structure... locked in combat rooms over and over",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetition"
+    },
+    {
+      "text": "any loot you find in these missions can’t be equiped or even looked at during missions... destroys any sense of flow",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Inventory Management"
+    },
+    {
+      "text": "one of the more offensive championing of in-game purchases we’ve seen in a full-price game",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the $60 price tag being first in line [for overhaul needs]",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Model"
+    },
+    {
+      "text": "visually dated, consistently dull and features the most average PlatinumGames combat we can remember",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Overall Quality"
+    },
+    {
+      "text": "the downtime between the dreadfully short and uninspiring missions",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "Combat can be fun in short bursts",
+      "category": "Combat",
+      "sentiment": "neutral",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "a soulless, cynical game that you should avoid",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Overall Quality"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "reviews": [
+    {
+      "text": "Although there's some variety in enemies and environments, a lot of Babylon's Fall feels the same, making it a bit repetitive over time.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "Combat is the main focus in Babylon's Fall as there isn't much else to the game than fighting hordes of enemies through similarly laid out levels.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Main Focus"
+    },
+    {
+      "text": "The platforming seems to be a way to break up the constant, and sometimes monotonous, combat sequences. However, with not much of a difference between the layout and environment for each quest, it's hard for the campaign in Babylon's Fall to be anything other than repetitive action.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Structure"
+    },
+    {
+      "text": "There's a good variety of enemies even in the first few hours of Babylon's Fall , but there isn't much time to figure out how they move or what the best weapons to counter them are. Due to constant combat encounters and frequently changing enemies, it's likely there will be a fair amount of trial-and-error to figuring out the best strategies, otherwise, combat feels like a long sequence of button-mashing for the sake of progression.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Enemy Encounters"
+    },
+    {
+      "text": "Weapons can be changed at the Sentinel Force HQ, but the only way to test weapon combinations is by starting a quest, which can cause some backtracking or quest abandonment if the loadout choice is ineffective.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Progression/Equipment Management"
+    },
+    {
+      "text": "Once the Volcanic Cloister is unlocked, enemies will be susceptible to elemental damage, so preparing the proper loadout becomes much more significant. The problem with using elemental damage comes with the inability to craft anything at this point in the game. Random drops and inventory to buy at the exchange make it difficult to obtain a weapon that's both a high-ranking power level and deals the correct elemental damage.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Elemental System"
+    },
+    {
+      "text": "There's also a Battle Pass included in Babylon's Fall , but progression through each tier is extremely slow. Most of the rewards are cosmetic, and the items that can be obtained are more easily gotten from completing quests, missions, or orders.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass"
+    },
+    {
+      "text": "Babylon's Fall is little more than a string of indiscernible combat encounters with a few big boss fights. The oil-paint art style of the game makes it difficult to distinguish anything in combat, especially in the darker levels.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Clarity"
+    },
+    {
+      "text": "Unfortunately, the rewards of completing Babylon's Fall aren't worth the effort of going through the unbearably repetitive gameplay.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Reward System"
+    },
+    {
+      "text": "Overall, Babylon's Fall is a combat-focused game with a lot of unvaried action that quickly gets old.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "Developed by PlatinumGames and published by Square Enix, Babylon's Fall is an action RPG that focuses on stylish combat.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Style"
+    },
+    {
+      "text": "In the opening sequence of Babylon's Fall , a Gideon Coffin is attached to each potential Sentinel. This powerful item hones Sentinel abilities, but it can also change or kill the host if they aren't strong enough.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "There are three Sentinel factions to choose from at the start of Babylon's Fall . Huysian Sentinels start with a sword, Agavian Sentinels have a hammer, and a bow is the weapon of choice for the Geleilion faction. Although each faction has a set starting weapon, all three Sentinel types can use any of the available weapons in the game.",
+      "category": "Gameplay loop",
+      "sentiment": "neutral",
+      "sub_category": "Faction System"
+    },
+    {
+      "text": "After choosing a faction, there are a few character customization options such as hairstyle and color or body paint. The customizations are initially limited, but more options can be unlocked later in Babylon's Fall .",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "The premise of the campaign in Babylon's Fall is to move through each Cloister of the tower alongside a group of fighters to reach the top while eliminating threats along the way.",
+      "category": "Story",
+      "sentiment": "neutral",
+      "sub_category": "Narrative Structure"
+    },
+    {
+      "text": "Missions and orders do offer a few unique and specific challenges, but the only way to complete them is to keep replaying levels.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Replay Value"
+    },
+    {
+      "text": "Each quest in the story, aside from boss levels, consists of chapters where the Sentinels will fight waves of enemies and earn a score ranging from Stone to Pure Platinum.",
+      "category": "Gameplay loop",
+      "sentiment": "neutral",
+      "sub_category": "Scoring System"
+    }
+  ]
+}

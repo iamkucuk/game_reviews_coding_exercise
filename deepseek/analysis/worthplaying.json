@@ -1,0 +1,274 @@
+{
+  "reviews": [
+    {
+      "text": "I've rarely had issues finding words for any review in the past, but Babylon's Fall is a different beast.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "General"
+    },
+    {
+      "text": "The game is not broken to the point where it's unplayable, but it's also light-years away from being an enjoyable or rewarding experience.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "It's an exceedingly mediocre experience that doesn't find good ways to reward your time except for a basic loot-loop that is a copy of any live service game.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "Square Enix has done it again; Babylon's Fall is its third published live service game in as many years, and it's arguably the worst effort of them all.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Model"
+    },
+    {
+      "text": "Overloaded with battle passes and premium in-game currency",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "repetitive mission structures",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Design"
+    },
+    {
+      "text": "poor visuals",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "awfully uninteresting story",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative"
+    },
+    {
+      "text": "Grab up to four companions, embark on a quest to kill a bunch of enemies and the occasional boss, get new gear, and rinse and repeat.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "I think I have not seen any game look this rough since the PS3 era",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "watercolor painting-style presentation that doesn't work in its favor.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "murky all the time, with very low-resolution textures that are devoid of detail, so things look unsharp and unattractive.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "dark color palette with a penchant for browns doesn't help, either.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "game did not have enough budget to properly make the visual style work, or it was rushed",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Development Issues"
+    },
+    {
+      "text": "cut scenes are told in a picture-by-picture style, further implying that Platinum was likely going for an oil painting look that backfired.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Presentation Style"
+    },
+    {
+      "text": "story doesn't hold your attention with either its content or its visuals.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative"
+    },
+    {
+      "text": "Babylon's Fall is a button-masher title at heart.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Depth"
+    },
+    {
+      "text": "won't scratch the itch that titles like Nier or Bayonetta left behind after the final credits rolled.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Comparison to Previous Titles"
+    },
+    {
+      "text": "poor job of introducing you to the combat.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Tutorial/Introduction"
+    },
+    {
+      "text": "exclusively pits you against low-level dudes that repeat constantly, making it difficult to experiment with this style of gameplay against a variety of foes.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Enemy Variety"
+    },
+    {
+      "text": "button-mashing to be more useful than consciously planning out attacks.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Depth"
+    },
+    {
+      "text": "damage-sponge enemies that take your hits until they eventually drop dead.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Enemy Design"
+    },
+    {
+      "text": "limited selection of weapons that you keep finding over and over, and they differ with slight color variations, damage output or buffs.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Weapon Variety"
+    },
+    {
+      "text": "grind, loot, and upgrade loop, but so do many other games that are more fun to play and prettier to look at.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "Babylon's Fall was released as a full-price title with a separate battle pass and a deluxe edition that scratches the $100 mark.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Model"
+    },
+    {
+      "text": "difficult to find others to play with online from the very first day.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Player Base"
+    },
+    {
+      "text": "Babylon's Fall feels like it's dead on arrival.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Player Base"
+    },
+    {
+      "text": "required to sign up and log into a Square Enix account to play this game on any platform.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Account System"
+    },
+    {
+      "text": "error on the Square Enix website prevented me from resetting the password on my account, which can only be done once every 24 hours.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Account System"
+    },
+    {
+      "text": "live service game that's hell-bent on monetizing everything, but it's uninterested in being engaging, rewarding, or nice to look at.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "plenty of glimpses of the familiar Platinum Games talent involved, teasing the game that could have been, but it ultimately fails to make an effort except for microtransactions.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Aesthetic Potential"
+    },
+    {
+      "text": "there is enough content for about 15 hours",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Quantity/Volume"
+    },
+    {
+      "text": "Instead of swinging a single weapon, your character can wield four at a time for each attack type. You have light and heavy attacks, and you have two spectral attacks via the Gideon Coffin that don't use your arms but depend on an SP meter that refills as you land attacks.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "In essence, you can create your own character with a standard creation tool",
+      "category": "Content",
+      "sentiment": "neutral",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "Armor is more diverse in its appearance but also suffers under the title's rough visual style.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Most of the competitor games are entirely free.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Model"
+    },
+    {
+      "text": "Any time I wanted to play the next level that I had unlocked, I was usually unable to find anyone to play with online.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Player Base"
+    },
+    {
+      "text": "the combat — the meat and potatoes of the experience — is slightly more convincing in comparison.",
+      "category": "Combat",
+      "sentiment": "neutral",
+      "sub_category": "General"
+    },
+    {
+      "text": "When you get in the flow of things, it does work and keeps you busy, but that's it.",
+      "category": "Gameplay loop",
+      "sentiment": "neutral",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "It's neat to have a system that lets you simultaneously attack with physical attacks and SP Gideon Coffin attacks.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "I don't necessarily mind a paper-thin premise or story, but this feels especially lackluster in presentation and execution.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Execution"
+    },
+    {
+      "text": "The game throws a range of characters into the mix that your protagonist interacts with during freeze-frame cut scenes",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Presentation"
+    },
+    {
+      "text": "Fused with a mighty apparatus called a Gideon Coffin, which seems to directly melt into your spinal cord, you take up arms as a Sentinel.",
+      "category": "Story",
+      "sentiment": "neutral",
+      "sub_category": "Lore/Setting"
+    },
+    {
+      "text": "Platinum Games has gained renown for tight and excellent combat design. From Nier: Automata to Bayonetta , the studio has been quite consistent with its combat design. It has produced its share of titles that didn't reach that level of quality, but those are relative outliers.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Comparison to Previous Titles"
+    },
+    {
+      "text": "Some character models and enemy designs, especially of bosses, look quite intriguing if you ignore the distracting visuals.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Aesthetic Potential"
+    }
+  ]
+}

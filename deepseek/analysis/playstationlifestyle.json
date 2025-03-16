@@ -1,0 +1,148 @@
+{
+  "reviews": [
+    {
+      "text": "Load times are quick, but that’s more likely due to the PS5’s blazing-fast SSD than anything else. Though, even the progress bar of the loading screens isn’t quite right, since its progress often jumps back and forth as apparently even determining how much of a level has loaded is tough to calculate.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Performance"
+    },
+    {
+      "text": "The DualSense’s adaptive triggers are used, but only as trigger points – once you hit resistance in the trigger, your ability fire off, rather than the resistance serving as a cue to apply more pressure. It’s an unintuitive use of the adaptive triggers, but at least they are being used here.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Controls"
+    },
+    {
+      "text": "Graphically, Babylon’s Fall almost has something cool going on here. The fidelity of character models, environments, and visual effects leave a lot to be desired, as this is not a showcase game by any means.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Fidelity"
+    },
+    {
+      "text": "There is an overarching theme of the game being an oil painting brought to life... It’s neat, but not nearly novel enough to make up for the fact that the story is rather uninspired.",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Visual Style"
+    },
+    {
+      "text": "The player is basically enslaved as a lackey to an evil empire, and while eventually some of the curtain is drawn back on the world at large, the payoff hardly seems worth it.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative"
+    },
+    {
+      "text": "A VERY Slow Start... it begs the player to stay invested for around ten hours before unlocking some of the more crucial customization and upgrade systems.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Progression"
+    },
+    {
+      "text": "Be prepared to grind like you’re playing Warframe for free, only it’s not nearly as fun of a time, and you paid for this 'privilege.'",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Progression"
+    },
+    {
+      "text": "Even at launch the game’s population is so low, you’ll be hard-pressed to find a full lobby... the game does not let you [wait for a full team].",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer"
+    },
+    {
+      "text": "Combat in Babylon’s Fall is so stiff, you’ll think you’ve gone back three console generations. Unskippable attack animations mean you’re locked into a move no matter what.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Two unique aspects to combat do keep it from being completely banal... This is something most players will need to adapt to... but the payoff is extra damage or defensive capabilities against enemies.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Many of these enemies are seemingly scaled with co-op in mind, since attempting to defeat them solo will be a challenge without being close to ten power levels above the recommended number.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Difficulty"
+    },
+    {
+      "text": "Stacking enough buffs to make Dungeons & Dragons maestros blush is a testament to the surprisingly robust enchantment system Babylon’s Fall has buried within its code.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Progression"
+    },
+    {
+      "text": "Charging full price for a humdrum dungeon crawler is one thing... the digital deluxe edition is not a good deal.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing"
+    },
+    {
+      "text": "One of Babylon’s Fall’s greatest aspects is its sweeping music, and even that wasn’t included in the ultra-premium copy.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music"
+    },
+    {
+      "text": "Babylon’s Fall seems like it needed a lot more development time. The core combat feels stiffer than my left wrist... lackluster graphics and limited multiplayer options... locking out key features... makes Babylon’s Fall a very tough sell.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Progression"
+    },
+    {
+      "text": "Platinum Games has been known as a developer of high-quality, frenetic action games that are a solo affair. They’ve decided to climb into not only the multiplayer arena, but the 'Games as a service' model.",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Genre Shift"
+    },
+    {
+      "text": "Some 'cutscenes' have a whimsical flourish applied to them, where the story is presented as a slideshow of various characters moving into different poses as they speak. Meanwhile, the player’s character is incorporated into these, with all current gear being properly rendered in this painting-like mode.",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Cutscene Execution"
+    },
+    {
+      "text": "What happens when you stumble upon a piece of gear with a 'god roll,' but its power level drags the rest of your build down? Your only option for what feels like forever is to simply equip something with a better power level but fewer enchantments...",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Gear Management"
+    },
+    {
+      "text": "The combos available to players are more reminiscent of a Musou game than Platinum Games’ previous endeavors such as Bayonetta or Nier.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combo System"
+    },
+    {
+      "text": "Dodging and parrying attacks are also options, which can give combat some sense of an ebb and flow like in other games.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "Considering all owners of the game receive the premium Battle Pass for the first season, this is hardly worth the extra $40.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Value Proposition"
+    },
+    {
+      "text": "Stacking microtransactions on top of it all leaves a nasty aftertaste that Platinum Games is going to have to wash out for a long time to come.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "This may be seen as Platinum Games’ fall from grace, but we’ve seen plenty of redemption stories in recent years. If any developer could do it, it could easily be Platinum Games.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "neutral",
+      "sub_category": "Developer Reputation"
+    },
+    {
+      "text": "Unique 'cutscenes'",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Cutscene Creativity"
+    }
+  ]
+}

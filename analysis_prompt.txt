@@ -23,7 +23,7 @@ You are an expert qualitative researcher applying Grounded Theory methodology to
     - Longevity/Player Retention
     - Technical Problems
 5. Create appropriate sub-categories
-6. Assess sentiment (positive, neutral, negative)
+6. Assess sentiment (positive, negative)
 7. Track new codes as they emerge
 8. Document when saturation occurs (when new data no longer yields new codes)
 
@@ -58,7 +58,7 @@ Produce your analysis in two parts:
     {
       "text": "exact text part used for coding",
       "category": "one of main categories",
-      "sentiment": "positive|neutral|negative",
+      "sentiment": "positive|negative",
       "sub_category": "one of the sub categories of the corresponding category"
     },
     ...

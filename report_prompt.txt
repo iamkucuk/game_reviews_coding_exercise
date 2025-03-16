@@ -59,6 +59,6 @@ a. Open Coding
 - Use formal academic language
 - Maintain objective analytical tone
 - Support claims with direct evidence from reviews
-- Follow ACM CHI format
 - Use diagrams to represent theoretical models
 - Include sufficient quotes to demonstrate grounding in data
+- Use markdown for the report

@@ -1,0 +1,136 @@
+{
+  "reviews": [
+    {
+      "text": "the narrative is poorly executed. The majority of cutscenes are framed as if they’re paintings with a series of stills to expand the story. Its delivery is painful, mainly due to the stilted script and awful voice acting.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Dialogue/Delivery"
+    },
+    {
+      "text": "the graphics take center stage. In an attempt to capture the brooding atmosphere... textures are bland and character models are reminiscent of a PS3-era game.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "you can easily personalize your character with the exhaustive range of armor and equipment that significantly alters your appearance.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "Quests contain several chapters, and while the environments differ, the structure remains formulaic.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Structure"
+    },
+    {
+      "text": "combat is thrilling and deceptively deep... four methods to strike, each of which is customizable, you have the ability to experiment with a catalog of weapons to perfect loadout.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics/Depth"
+    },
+    {
+      "text": "Spirit energy is tied to spectral weapon slots... There is a lovely risk/reward system in play as you replenish energy from standard attacks and then use it for larger strikes.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics/Resource Management"
+    },
+    {
+      "text": "bullet hell segments occur that require you to weave in and out of projectiles to avoid damage. Attacks patterns alter and build to a frantic but satisfying climax.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Boss Battles"
+    },
+    {
+      "text": "Missions offer a ton of rewards such as armor, weapons and currency... you are unable to switch your weapons during a mission which helps Babylon’s Fall maintain its fast pace.",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Progression Mechanics"
+    },
+    {
+      "text": "there are several types of currencies and battle passes. Alas, these suffocate Babylon’s Fall, as the needless number of systems weigh down the experience.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "In-Game Systems"
+    },
+    {
+      "text": "the art direction, although interesting, doesn’t capture the notion of an oil painting. Instead, it looks bland and at times, downright ugly.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "Each character possesses a stereotypical accent that overrides the dialogue and results in a lack of engagement with the plot.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Character Development"
+    },
+    {
+      "text": "Missions Lack Variety",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Variety"
+    },
+    {
+      "text": "PlatinumGames has built a reputation for creating high-octane, action-focused experiences... their implementation of accessible yet deep combat has garnered a cult following",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Mechanics/Depth"
+    },
+    {
+      "text": "As the ‘Games as a Service’ model has proven to be extremely profitable... many are trying to jump on the bandwagon and replicate the success of their peers",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "GaaS Model Context"
+    },
+    {
+      "text": "Domitinian Empire experiments on slaves in order to farm super soldiers to search the ruins",
+      "category": "Story",
+      "sentiment": "neutral",
+      "sub_category": "Worldbuilding"
+    },
+    {
+      "text": "Oil paint lacquer that washes the detail... textures are bland and character models are reminiscent of a PS3-era game",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Technical Execution"
+    },
+    {
+      "text": "Evasion is key and offers a temporary slowdown when executed during a small time frame",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Defensive Mechanics"
+    },
+    {
+      "text": "The combination of items creates a power ranking that links to the difficulty of missions",
+      "category": "Balancing",
+      "sentiment": "neutral",
+      "sub_category": "Scaling System"
+    },
+    {
+      "text": "Extra content such as skirmishes, sieges and timed missions... aren’t clearly communicated and you may come across them accidentally",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Implementation Clarity"
+    },
+    {
+      "text": "A troubled development period has marred the game, resulting in a directionless, cluttered and convoluted adventure",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Development History"
+    },
+    {
+      "text": "Inspired by John William Waterhouse and Caravaggio’s brooding atmosphere",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Artistic Intent"
+    },
+    {
+      "text": "Weapons include elemental effects and enchantments that give additional bonuses... enemies are susceptible to elements",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Enemy Interactions"
+    }
+  ]
+}
