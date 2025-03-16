@@ -1,4 +1,3 @@
-```markdown
 # Grounded Theory Analysis of Player Reception: Babylon's Fall
 *A CHI-Format Research Report*
 
@@ -69,23 +68,23 @@ Axial coding involved developing paradigm models for major categories, illustrat
 
 **Relationship Diagram:**
 
-```
+
 [PlatinumGames Reputation] --> [High Expectations for Combat]
 [Live-Service Model] --> [Monetization Pressures & Repetitive Content]
 [Technical Limitations] --> [Compromised Visuals & Performance]
 [High Expectations for Combat] + [Monetization Pressures & Repetitive Content] + [Compromised Visuals & Performance] --> [Player Dissatisfaction]
-```
+
 
 ### 3.3 Selective Coding
 The selective coding process identified "Frustrated Potential" as the core category. This category encapsulates the dissonance between player expectations, given PlatinumGames' pedigree, and the game's execution.
 
 **Theoretical Model:**
 
-```
+
 [PlatinumGames Pedigree] --> [High Player Expectations]
 [Babylon's Fall Execution] --> [Technical Issues, Repetitive Gameplay, Monetization]
 [High Player Expectations] + [Babylon's Fall Execution] --> [Frustrated Potential] --> [Negative Reception]
-```
+
 
 The core category is justified by the consistent presence of codes related to technical issues, repetitive gameplay, and monetization in negative reviews. The positive aspects of the game, such as the potential for dynamic combat, were overshadowed by these issues.
 
@@ -132,4 +131,3 @@ This study is limited by its reliance on professional game reviews. Future resea
 
 ### 5.4 Future Research Directions
 Future research should explore the factors that contribute to successful live-service adaptations, as well as the strategies that can be used to mitigate the risks involved in this type of game development.
-```
