@@ -4,10 +4,13 @@ A LangChain-based tool for analyzing game reviews from websites, extracting stru
 
 ## Features
 
-- **Website Content Extraction**: Fetches and processes content from game review websites
-- **Structured Analysis**: Analyzes review content and extracts structured data in JSON format
-- **Report Generation**: Creates detailed reports based on the analysis
-- **Multiple LLM Support**: Works with various LLM providers (OpenAI, Google, Groq, OpenRouter, Azure)
+- **Website Content Extraction**: Fetches and processes content from game review websites using `requests` and `Beautiful Soup`.
+- **Structured Analysis**: Analyzes review content and extracts structured data in JSON format, categorizing text segments by sentiment, category, and sub-category.
+- **Report Generation**: Creates detailed reports based on the analysis, summarizing key positive and negative aspects of the game.
+- **Multiple LLM Support**: Works with various LLM providers, including OpenAI, Google Gemini, Groq, OpenRouter, and Azure OpenAI.
+- **Rate Limiting**: Implements rate limiting using the `RateLimiter` class to manage API call frequency.
+- **JSON Output**: Ensures the output is valid JSON with specific formatting instructions and retry mechanisms.
+- **Review Enhancement**: Includes a review enhancement step to identify and incorporate missing review segments.
 
 ## Installation
 
@@ -103,6 +106,18 @@ The generated report is saved as a text file with a comprehensive analysis of th
 - Groq
 - OpenRouter
 - Azure OpenAI
+
+## Rate Limiting
+
+The tool implements rate limiting using the `RateLimiter` class from rate_limiter.py to manage API call frequency. The default rate limit is set to 100 requests per minute.
+
+## JSON Output and Retries
+
+The tool is designed to ensure that the LLM returns valid JSON output. It includes specific formatting instructions in the prompt and implements retry mechanisms to handle cases where the LLM returns invalid JSON or data with an incorrect structure. The `execute_llm_for_json` function in game_review_analyzer.py handles this process.
+
+## Review Enhancement
+
+The tool includes a review enhancement step to identify and incorporate missing review segments. After the initial analysis, the LLM re-examines the original game review content to find any important segments that were missed. The `merge_reviews` function in game_review_analyzer.py merges the initial and enhanced reviews, avoiding duplicates.
 
 ## License
 
