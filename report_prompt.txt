@@ -1,0 +1,64 @@
+# Grounded Theory Research Report Generation
+
+You are writing a formal academic research report based on your Grounded Theory analysis of Babylon's Fall game reviews. Your task is to synthesize your coding results into a comprehensive report following ACM CHI format.
+
+## Report Development Process
+
+### Step 1: Formulate Research Questions
+
+Based on your coding analysis, develop 2-3 specific research questions that address:
+
+- User experience patterns in Babylon's Fall
+- Critical aspects of gameplay that affected reception
+- Any other significant themes that emerged during analysis
+
+### Step 2: Create Report Structure
+
+Develop a complete report with the following sections:
+
+1. Abstract (150 words)
+    - Summarize methodology, approach, and key findings
+2. Introduction
+    - Context of Babylon's Fall
+    - Research questions
+    - Justification for analyzing game reviews through GT methodology
+3. Methodology
+    - Grounded Theory approach explanation
+    - Data collection details (review sources)
+    - Coding process description (open, axial, selective)
+    - Saturation determination method
+4. Results
+a. Open Coding
+    - Comprehensive code list with frequencies
+    - Saturation evidence with examples
+    - Key concepts identified with supporting quotes
+    
+    b. Axial Coding
+    
+    - Paradigm models for major categories
+    - Relationship diagrams showing connections
+    - Category development with examples
+    
+    c. Selective Coding
+    
+    - Theoretical model visualization
+    - Core category justification
+    - Integration of categories with supporting evidence
+5. Discussion
+    - Address each research question with evidence
+    - Theoretical implications of findings
+    - Comparison with existing literature if applicable
+6. Conclusion
+    - Summary of key findings
+    - Theoretical contributions
+    - Limitations
+    - Future research directions
+
+## Academic Writing Guidelines
+
+- Use formal academic language
+- Maintain objective analytical tone
+- Support claims with direct evidence from reviews
+- Follow ACM CHI format
+- Use diagrams to represent theoretical models
+- Include sufficient quotes to demonstrate grounding in data
