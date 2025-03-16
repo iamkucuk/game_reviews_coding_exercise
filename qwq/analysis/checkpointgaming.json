@@ -1,0 +1,214 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon\u2019s Fall is categorically one of the most disappointing games of the generation so far",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Overall Quality"
+    },
+    {
+      "text": "ham-fisted live service integration",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "a bland and meandering plot",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Quality"
+    },
+    {
+      "text": "visuals that would make 2003\u2019s Morrowind look like a Picasso masterpiece",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the glitz and glam on display when in the throes of combat temporarily improves the bland scenery",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Aesthetics"
+    },
+    {
+      "text": "trying different combinations of swords, wands, bows, and hammers to build your character\u2019s loadout is actually quite enjoyable",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Customization"
+    },
+    {
+      "text": "weapon effects look impressive",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Aesthetics"
+    },
+    {
+      "text": "the menus make no sense",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "voice acting is on another level of cringe",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "the graphical quality is just so far below what would be considered acceptable for a AAA studio",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the combat doesn't suck",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Mechanics"
+    },
+    {
+      "text": "the UI and menu navigation is painful",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "the game's live service integration is tragic",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "servers were down",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Server Stability"
+    },
+    {
+      "text": "the combat's weapon combinations are enjoyable",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Customization"
+    },
+    {
+      "text": "the sound design's voice acting is cringe",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "the UI's menus are hard to navigate",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "the monetization's intrusive elements",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "the story's hollow characters",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Character Development"
+    },
+    {
+      "text": "the technical issues with server down",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Server Stability"
+    },
+    {
+      "text": "the combat's occasional fun moments",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Mechanics"
+    },
+    {
+      "text": "the game's one and only saving grace is that Platinum Games truly are the kings of combat",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Mechanics"
+    },
+    {
+      "text": "the voice acting and sound design is awful",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "the UI and menu navigation is painful",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "the monetization's live service elements are a cash grab",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "the technical issues with co-op",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Co-op Functionality"
+    },
+    {
+      "text": "the combat's weapon effects look impressive",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Aesthetics"
+    },
+    {
+      "text": "the game's technical problems with server down",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Server Stability"
+    },
+    {
+      "text": "the UI's menu navigation is confusing",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "the monetization's intrusive elements",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "the combat's diversity and experiment available",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Customization"
+    },
+    {
+      "text": "the sound design's voice acting is awful",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "the technical issues with co-op functionality",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Co-op Functionality"
+    },
+    {
+      "text": "the game's lack of tutorials",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Tutorial/Instructional Content"
+    },
+    {
+      "text": "the combat's occasional fun moments",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Mechanics"
+    }
+  ]
+}

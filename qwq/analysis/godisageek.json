@@ -1,0 +1,142 @@
+{
+  "reviews": [
+    {
+      "text": "Designed to be an endless melee grindathon something akin to Godfall",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Repetitiveness"
+    },
+    {
+      "text": "the onus is on repetition for the sake of it",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Repetitiveness"
+    },
+    {
+      "text": "Combat is fast-paced",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Pacing"
+    },
+    {
+      "text": "tedious when there\u2019s no deviation on combos",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Variety"
+    },
+    {
+      "text": "Looks awful",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Character models are ugly and angular, and wouldn\u2019t look out of place on the PS2",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Battle Pass is front and centre",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass Focus"
+    },
+    {
+      "text": "the story is almost completely nonsensical",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Coherence"
+    },
+    {
+      "text": "weapons float on weird ghostly tendrils",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "Platinum Games operating on autopilot",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Design Approach"
+    },
+    {
+      "text": "the only thing to recommend it over any other game released recently",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Depth"
+    },
+    {
+      "text": "the combat becomes tedious",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Execution"
+    },
+    {
+      "text": "the weapons themselves don\u2019t help when they get in the way and obscure the action",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the core loop is particularly bad",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Core Loop Design"
+    },
+    {
+      "text": "the only thing to recommend it over any other game released recently",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Player Engagement"
+    },
+    {
+      "text": "the voices in your ear delivering exposition whilst on solo missions",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "the only thing to recommend it over any other game released recently",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Originality"
+    },
+    {
+      "text": "the only thing to recommend it over any other game released recently",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "In-Game Purchases"
+    },
+    {
+      "text": "the only thing to recommend it over any other game released recently",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Artistic Style"
+    },
+    {
+      "text": "No variety in gameplay",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Variety"
+    },
+    {
+      "text": "Pushes microtransactions",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the only initially active shop in the hub is the cash shop",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cash Shop Prominence"
+    },
+    {
+      "text": "I can\u2019t recommend it over any other game released recently.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Originality"
+    }
+  ]
+}

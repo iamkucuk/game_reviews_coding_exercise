@@ -1,0 +1,94 @@
+{
+  "reviews": [
+    {
+      "text": "asking me to mandatorily link my Square Enix account wasn\u2019t a great sign",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Account Linking Requirement"
+    },
+    {
+      "text": "the UI is sluggish; even during the premium shop portions",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "I actually really enjoyed many aspects of the story",
+      "category": "Story",
+      "sentiment": "positive",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "Visually, Babylon\u2019s Fall has gotten a little better since the shaky reveal, but it\u2019s still rough, especially with character models",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "When you\u2019re actually fighting stuff, it\u2019s a ton of fun",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat System"
+    },
+    {
+      "text": "many of them look the same... same enemies, slightly tweaked",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Content Variety"
+    },
+    {
+      "text": "the menus are a big point of contention",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "Babylon\u2019s Fall is $60, with a $99.99 digital deluxe edition",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "sound design that are trying to feel stylish, but stumble due to time constraints",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Technical Execution"
+    },
+    {
+      "text": "hitting a fun wall when constantly doing the same things over and over",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetition"
+    },
+    {
+      "text": "the game is almost impossible to recommend... plug pulled before the end of the year",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Game Longevity"
+    },
+    {
+      "text": "the ability to equip vanity attire (transmog) shows that they cared about the design of how characters look",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "live service elements like daily login bonuses and battle passes",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Elements"
+    },
+    {
+      "text": "the menus are laborious to navigate",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Navigation"
+    },
+    {
+      "text": "the core gameplay is fun but constrained by live service elements",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Gameplay Constraints"
+    }
+  ]
+}

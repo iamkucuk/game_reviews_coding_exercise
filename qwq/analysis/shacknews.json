@@ -1,0 +1,166 @@
+{
+  "reviews": [
+    {
+      "text": "PlatinumGames disappoints with a soulless live-service RPG.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Emotional Impact"
+    },
+    {
+      "text": "the darkest skin tone was incredibly light, nowhere near as dark as a lot of the people that will play this game.",
+      "category": "UI/UIX",
+      "sentiment": "negative",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "the game doesn\u2019t lock you out of using specific weapons due to your class.",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Class System"
+    },
+    {
+      "text": "the story... dull characters... cutscenes go on and on.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "combat feels dated and slow... animations rarely blend smoothly... clunky movement",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Pacing"
+    },
+    {
+      "text": "movement in general just feels clunky. There\u2019s a cool cartwheel trick you can do while running, but just about everything else feels sloppy",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Movement Mechanics"
+    },
+    {
+      "text": "There\u2019s a cool cartwheel trick you can do while running",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Movement Mechanics"
+    },
+    {
+      "text": "seasonal format and implementation of a Battle Pass... pay-to-win concerns",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass/May-to-Win"
+    },
+    {
+      "text": "generic fantasy environments",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Environments"
+    },
+    {
+      "text": "robotic character animations",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Animation"
+    },
+    {
+      "text": "medieval oil paintings... contributes to feeling outdated",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "Battles of something unique here and there",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Gameplay Innovation"
+    },
+    {
+      "text": "generic combat",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Combat Variety"
+    },
+    {
+      "text": "Pay-to-win concerns",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "Visually unappealing",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "Babylon\u2019s Fall\u2019s score to be solid",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music"
+    },
+    {
+      "text": "didn\u2019t stand out very often",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Music"
+    },
+    {
+      "text": "festive tunes... intense themes",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music"
+    },
+    {
+      "text": "technically competent; the game isn\u2019t broken or held back by major bugs or issues",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Technical Stability"
+    },
+    {
+      "text": "releasing in close proximity to some excellent action-RPGs, which Babylon\u2019s Fall quite simply can\u2019t hold a candle to",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Competitive Positioning"
+    },
+    {
+      "text": "paint by numbers",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Gameplay Innovation"
+    },
+    {
+      "text": "the game\u2019s core gameplay and systems... feels outdated",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Gameplay Innovation"
+    },
+    {
+      "text": "online co-op was decent enough fun",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Multiplayer/Co-op"
+    },
+    {
+      "text": "Pay-to-win concerns among players",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the game\u2019s art style is inspired by medieval oil paintings... contributes to feeling outdated",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "Abysmal character creation options",
+      "category": "UI/UIX",
+      "sentiment": "negative",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "Live-service elements are weak",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live-Service Quality"
+    }
+  ]
+}

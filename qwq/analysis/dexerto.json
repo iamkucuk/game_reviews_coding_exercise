@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "text": "Soulless RPG is just not fun to play",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Overall Enjoyment"
+    },
+    {
+      "text": "grindy combat and a focus on keeping you playing with no real reason to invest",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Grind System"
+    },
+    {
+      "text": "not the most unique story",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Originality"
+    },
+    {
+      "text": "hammiest voice acting we\u2019ve heard in 2022 so far",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "forgettable characters",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Character Development"
+    },
+    {
+      "text": "inspired by medieval artwork... painterly quality... warmth",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Artistic Style"
+    },
+    {
+      "text": "characters look closer to PS3-era models, and everything just feels a little smudged",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Graphics Quality"
+    },
+    {
+      "text": "combat is just as clunky that it\u2019s hard to attain higher rankings",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Fluidity"
+    },
+    {
+      "text": "daily login page that feels ripped from a mobile title",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Daily Login Mechanics"
+    },
+    {
+      "text": "premium battle pass is advertised before even starting the campaign",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass Implementation"
+    },
+    {
+      "text": "loot system that feels inconsequential",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "the game is designed for 'whales'",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Whale Targeting"
+    },
+    {
+      "text": "combat is barebones and clunky",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Mechanics"
+    },
+    {
+      "text": "spikes leap from the floor with barely any time to react",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Level Design Balance"
+    },
+    {
+      "text": "the game\u2019s in-game economy is even worse",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Economy Design"
+    },
+    {
+      "text": "the game\u2019s focus on 'games as a service' leading to grind",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Grind System"
+    },
+    {
+      "text": "the game\u2019s combat is just not fun to play",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Overall Enjoyment"
+    },
+    {
+      "text": "the game\u2019s focus on whales",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Whale Targeting"
+    },
+    {
+      "text": "the game\u2019s art style is divisive",
+      "category": "Art Design/Direction",
+      "sentiment": "neutral",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "muddy graphics",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Graphics Quality"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon\u2019s Fall is a baffling game that lacks any distinct vision, both in terms of gameplay and artistic design.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Game Design Vision"
+    },
+    {
+      "text": "Platinum Games\u2019s name is a seal of quality, but Babylon\u2019s Fall is proof even the best studios can fail.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Game Design Vision"
+    },
+    {
+      "text": "Babylon\u2019s Fall feels like a live service cash grab with no cohesive vision.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Play Elements"
+    },
+    {
+      "text": "Combat feels sluggish and unresponsive compared to Platinum\u2019s past games.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Responsiveness"
+    },
+    {
+      "text": "The oil painting aesthetic makes the game muddy and unfocused.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "Character models look like they\u2019re from a mobile game.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "The character creator offers few skin tone options for players wanting diverse characters.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Customization Options"
+    },
+    {
+      "text": "Combat grows repetitive quickly.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Repetition"
+    },
+    {
+      "text": "The soundtrack has memorable orchestral themes.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music Quality"
+    },
+    {
+      "text": "The story fails to deliver on any interesting themes it sets up.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Execution"
+    },
+    {
+      "text": "The Gideon Coffin system is never fully realized.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "Daily missions and battle pass challenges force grinding.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Mechanics"
+    },
+    {
+      "text": "The game\u2019s aesthetic choices are baffling.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Artistic Vision"
+    },
+    {
+      "text": "Combat lacks the flair of Platinum\u2019s past titles like Metal Gear Rising.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Innovation"
+    },
+    {
+      "text": "The mission design is dull and repetitive.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Repetition"
+    },
+    {
+      "text": "The game\u2019s live service elements are tacked on.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "The character creator\u2019s lack of skin tone options is a failure.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Customization Options"
+    },
+    {
+      "text": "The game requires a complete overhaul to be salvageable.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Game Design Vision"
+    },
+    {
+      "text": "The soundtrack matches the quality of Square Enix\u2019s fantasy games.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music Quality"
+    },
+    {
+      "text": "The game\u2019s visual style is a misfire despite its artistic ambition.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "The combat\u2019s lack of innovation is stark compared to Platinum\u2019s past work.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Innovation"
+    },
+    {
+      "text": "The game\u2019s repetitive mission structure leads to tedium.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Repetition"
+    },
+    {
+      "text": "The Gideon Coffin\u2019s mechanics feel underdeveloped.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "The game\u2019s UI customization options are severely limited.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Customization Options"
+    },
+    {
+      "text": "The game\u2019s repetitive combat encounters make battles feel stale.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Repetition"
+    },
+    {
+      "text": "The game\u2019s live service elements feel tacked on for monetization.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Play Elements"
+    },
+    {
+      "text": "The game\u2019s character models are poorly designed.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "The soundtrack is a highlight with memorable themes.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music Quality"
+    },
+    {
+      "text": "The game\u2019s story never explores its indentured servitude premise.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Execution"
+    },
+    {
+      "text": "The game\u2019s grind-heavy daily missions are dull.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Mechanics"
+    },
+    {
+      "text": "The game\u2019s visual style is a misfire despite its artistic ambition.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "The combat\u2019s lack of innovation is stark compared to Platinum\u2019s past work.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Innovation"
+    },
+    {
+      "text": "The game\u2019s repetitive mission structure leads to tedium.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Repetition"
+    },
+    {
+      "text": "The Gideon Coffin\u2019s mechanics feel underdeveloped.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "The game\u2019s UI customization options are severely limited.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Customization Options"
+    },
+    {
+      "text": "The game\u2019s repetitive combat encounters make battles feel stale.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Repetition"
+    },
+    {
+      "text": "The game\u2019s live service elements are tacked on for monetization.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Play Elements"
+    },
+    {
+      "text": "The game\u2019s character models are poorly designed.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "The soundtrack is a highlight with memorable themes.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music Quality"
+    },
+    {
+      "text": "The story fails to deliver on its indentured servitude premise.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Execution"
+    },
+    {
+      "text": "The game\u2019s grind-heavy daily missions are dull.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Mechanics"
+    },
+    {
+      "text": "The game\u2019s visual style is a misfire despite its artistic ambition.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "The combat\u2019s lack of innovation is stark compared to Platinum\u2019s past work.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Innovation"
+    },
+    {
+      "text": "The mission design strings together repetitive encounters.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Repetition"
+    },
+    {
+      "text": "The Gideon Coffin\u2019s potential is unfulfilled.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "The character creator\u2019s customization is abysmal.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Customization Options"
+    },
+    {
+      "text": "The combat\u2019s sluggishness contrasts with Platinum\u2019s past dynamic systems.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Responsiveness"
+    },
+    {
+      "text": "The game\u2019s repetitive mission design exacerbates the grind.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Mechanics"
+    },
+    {
+      "text": "The game\u2019s live service elements are tacked on.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "the torrent of loot, currencies, battle points, and more thrown at you at any given moment.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Currency Management"
+    },
+    {
+      "text": "Your only defensive option is a dodge that moves you a short distance, and if timed perfectly has a bit of a slowdown effect.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Defensive Mechanics"
+    }
+  ]
+}

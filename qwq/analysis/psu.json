@@ -1,0 +1,112 @@
+{
+  "reviews": [
+    {
+      "text": "A poor effort at best, with a graphics filter that more often than not shows off the game in the worst light",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the water paint filter over everything... textures... look horrible",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Environmental Design"
+    },
+    {
+      "text": "cutscenes... facial animations... textures... look worse",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "underwater filter clash... headaches",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "combat can be fun for a time, though it\u2019s repetitive nature quickly turns to a boring grind",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "combat starts off simple... unlock new features... grind to it",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding"
+    },
+    {
+      "text": "the music is incredibly well done",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Soundtrack Quality"
+    },
+    {
+      "text": "cross-region locked... NA and EU can\u2019t play together",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Functionality"
+    },
+    {
+      "text": "party setup confusing... create a private HQ",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "User Interface Clarity"
+    },
+    {
+      "text": "real money store... vanity items",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Purchases"
+    },
+    {
+      "text": "free battle pass... easy to level up",
+      "category": "Monetization",
+      "sentiment": "positive",
+      "sub_category": "Battle Pass System"
+    },
+    {
+      "text": "starter gear... wait until 40-50",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "orrs of light don\u2019t light up the environment well",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Environmental Lighting"
+    },
+    {
+      "text": "needed more time in production... textures",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Premature Release"
+    },
+    {
+      "text": "crafting can be a lot of fun",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Crafting System"
+    },
+    {
+      "text": "facial animations... textures... look worse in cutscenes",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Animation"
+    },
+    {
+      "text": "the watercolor filter... clash with underwater levels",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Environmental Glitches"
+    },
+    {
+      "text": "the game is mostly zoomed out... cutscenes show bad textures",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Consistency"
+    }
+  ]
+}

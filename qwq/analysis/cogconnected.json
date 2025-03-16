@@ -1,0 +1,118 @@
+{
+  "reviews": [
+    {
+      "text": "Their implementation of accessible yet deep combat has garnered a cult following",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Depth"
+    },
+    {
+      "text": "The narrative is poorly executed. The majority of cutscenes are framed as if they\u2019re paintings with a series of stills to expand the story. Its delivery is painful, mainly due to the stilted script and awful voice acting. Each character possesses a stereotypical accent that overrides the dialogue and results in a lack of engagement with the plot.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Quality"
+    },
+    {
+      "text": "the art direction, although interesting, doesn\u2019t capture the notion of an oil painting. Instead, it looks bland and at times, downright ugly.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "With four methods to strike, each of which is customizable, you have the ability to experiment with a catalog of weapons to perfect loadout. Weapons contain different properties that alter their effectiveness, therefore, allowing you to create unique combos.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Customization"
+    },
+    {
+      "text": "There is a lovely risk/reward system in play as you replenish energy from standard attacks and then use it for larger strikes. Due to this, there is a rhythm to battles as you must vary your output in order to be successful.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Risk/Reward Mechanics"
+    },
+    {
+      "text": "Evasion is key and offers a temporary slowdown when executed during a small time frame. This gives you the opportunity to unleash a flurry of attacks",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Evasion Mechanics"
+    },
+    {
+      "text": "Boss Battles are varied and quite challenging. At times, bullet hell segments occur that require you to weave in and out of projectiles to avoid damage. Attacks patterns alter and build to a frantic but satisfying climax.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Boss Design"
+    },
+    {
+      "text": "Alas, these [currencies and battle passes] suffocate Babylon\u2019s Fall, as the needless number of systems weigh down the experience. Babylon\u2019s Fall falters with its implementation of a live-service model.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Implementation"
+    },
+    {
+      "text": "Missions Lack Variety",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Mission Variety"
+    },
+    {
+      "text": "the needless number of systems weigh down the experience",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "System Complexity"
+    },
+    {
+      "text": "Personalizing Your Loadout",
+      "category": "Gameplay loop",
+      "sentiment": "positive",
+      "sub_category": "Loadout Customization"
+    },
+    {
+      "text": "Deep Combat System",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Depth"
+    },
+    {
+      "text": "textures are bland and character models are reminiscent of a PS3-era game",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the combination of items creates a power ranking that links to the difficulty of missions. You can purchase all manner of equipment from the shop in the hub area which can help raise your rank. While this sounds like it could be grind-focused, I never felt the need to revisit a dungeon just to level up.",
+      "category": "Gameplay loop",
+      "sentiment": "positive",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "they aren\u2019t clearly communicated and you may come across them accidentally",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Mission Accessibility"
+    },
+    {
+      "text": "the game contains a compelling, multi-faceted combat system, its brilliance is lost in a crowd of unnecessary features",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "System Complexity"
+    },
+    {
+      "text": "the stilted script and awful voice acting",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "you can tackle missions co-operatively or independently and the difficulty scales accordingly",
+      "category": "Gameplay loop",
+      "sentiment": "positive",
+      "sub_category": "Co-op Gameplay"
+    },
+    {
+      "text": "Unfortunately, it seems that a troubled development period has marred the game, resulting in a directionless, cluttered and convoluted adventure",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Development Impact"
+    }
+  ]
+}

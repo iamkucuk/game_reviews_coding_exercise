@@ -1,0 +1,262 @@
+{
+  "reviews": [
+    {
+      "text": "The opening hours of the campaign feel like a complete waste of time with boring and repetitive levels accompanied by a story that makes no sense.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Early Progression"
+    },
+    {
+      "text": "The combat later on is a lot of fun and certain boss fights and quests have been great to test out new builds with.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Mechanics"
+    },
+    {
+      "text": "The adaptive trigger support on PS5 for spectral attacks offering different resistance depending on your SP gauge and the attack is very nicely implemented.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Controller Features"
+    },
+    {
+      "text": "The story makes no sense.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Clarity"
+    },
+    {
+      "text": "The final areas can look excellent with great boss battles even in the early parts.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "Visual clarity issues in dark areas make it hard to identify certain things in some levels.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Clarity Issues"
+    },
+    {
+      "text": "Voice acting is a mixed bag; some characters sound robotic.",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "The soundtrack is excellent, especially boss themes and area-specific songs.",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music"
+    },
+    {
+      "text": "The battle pass is always in your face with expensive cosmetics like NieR: Automata skins costing over $15.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass Implementation"
+    },
+    {
+      "text": "Post-game modes like skirmishes and sieges are great but locked behind 15+ hours of play.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Unlocking Progression"
+    },
+    {
+      "text": "Visual glitches in cutscenes like flickering hair during important moments.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "The game requires at least one co-op partner to be enjoyable.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Necessity"
+    },
+    {
+      "text": "The NieR: Automata collaboration event was quite excellent.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Collaboration Content"
+    },
+    {
+      "text": "Early systems like gear enhancement and crafting are poorly explained.",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Information Presentation"
+    },
+    {
+      "text": "The PS5 version has great haptic feedback and adaptive triggers.",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Performance"
+    },
+    {
+      "text": "Early gameplay feels like a long tutorial with no challenge until late game.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Tutorial Design"
+    },
+    {
+      "text": "Combat customization options like attack modes and Gideon Coffin skills add depth.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Customization Options"
+    },
+    {
+      "text": "The game's monetization feels like a free-to play game with premium cosmetics.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Monetization Strategy"
+    },
+    {
+      "text": "Boss fights with bullet hell patterns and arena designs are highlights.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Boss Fights"
+    },
+    {
+      "text": "Early levels with darkness and lantern mechanics are frustratingingly restrictive.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Environmental Hazards"
+    },
+    {
+      "text": "The game's core loop early on is a grind to progress through chapters.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Mechanics"
+    },
+    {
+      "text": "The PS5 version's fast load times and haptic feedback are well-implemented.",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Performance"
+    },
+    {
+      "text": "The game's balance issues in early levels make solo play frustrating.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Early Game Balance"
+    },
+    {
+      "text": "The unlock of post-game modes after 15 hours hurts early engagement.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Unlocking Systems"
+    },
+    {
+      "text": "The collaboration event with NieR: Automata added meaningful content.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Collaboration Content"
+    },
+    {
+      "text": "The game's monetization model feels exploitative with premium currency requirements.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Pricing"
+    },
+    {
+      "text": "Boss fights in later areas showcase strong level design and variety.",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "The game's early hours are a tedious tutorial with no challenge.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Tutorial Design"
+    },
+    {
+      "text": "The combat's spectral attack system with SP management adds strategic depth.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Resource Management"
+    },
+    {
+      "text": "The game's visual style is inconsistent and often unappealing.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Consistency"
+    },
+    {
+      "text": "The PS5's fast load times and haptic feedback enhance the experience.",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Performance"
+    },
+    {
+      "text": "The game's early progression feels like a tutorial with no real challenge.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Tutorial Design"
+    },
+    {
+      "text": "The unlock of post-game modes after 15 hours creates a frustrating grind.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Unlocking Progression"
+    },
+    {
+      "text": "The NieR: Automata collaboration event added high-quality content.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Collaboration Content"
+    },
+    {
+      "text": "The game's monetization pushes expensive cosmetics despite being a paid game.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Pricing"
+    },
+    {
+      "text": "Boss fights with unique arena designs and patterns are highlights.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Boss Fights Design"
+    },
+    {
+      "text": "Early levels with darkness mechanics are poorly implemented and frustratingin.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Environmental Hazards"
+    },
+    {
+      "text": "The game's unlock system buries core mechanics until late in the campaign.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Unlocking Systems"
+    },
+    {
+      "text": "The PS5's haptic feedback and adaptive triggers enhance combat immersion.",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Controller Integration"
+    },
+    {
+      "text": "The game's early hours are a tedious grind with no meaningful progression.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Mechanics"
+    },
+    {
+      "text": "The game's late-unlocked post-game modes show potential but are too delayed.",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Post-Game Content"
+    },
+    {
+      "text": "The game's monetization model feels exploitative with premium currency demands.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Monetization Strategy"
+    },
+    {
+      "text": "The game's unlock system buries core mechanics until late in the campaign.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Unlocking Systems"
+    }
+  ]
+}

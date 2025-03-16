@@ -1,0 +1,112 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon\u2019s Fall is a surprisingly dull affair, with repetitive gameplay, a bland story, and multiplayer where things are just too easy to provide any real challenge.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "The way these systems are set out is really odd too. Even after clearing two cloisters you still cannot do the most basic of things in the game, which is visiting the blacksmith to enhance your weapons or get rid of gear you just do not need.",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Progression Accessibility"
+    },
+    {
+      "text": "The artwork and graphics are incredibly dated",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visuals"
+    },
+    {
+      "text": "The combat at the game's core is so simple and lacking in challenge, especially if you have a full team.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Challenge Level"
+    },
+    {
+      "text": "The most engaging part of the game is experimenting with different weapons early on, with some having different effects like enhancing attacks or providing healing when being used.",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Mechanics"
+    },
+    {
+      "text": "The hub world does not really provide much outside of being the place you go back to start a new quest, or to redeem rewards for completing in-game achievements.",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Hub Design"
+    },
+    {
+      "text": "Live service model is pointless",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Design"
+    },
+    {
+      "text": "The music is forgettable and the story is just really dull",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Narrative Soundtrack"
+    },
+    {
+      "text": "Babylon\u2019s Fall doesn\u2019t scale enemy difficulty based on party size, making co-op feel too easy",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Difficulty Scaling"
+    },
+    {
+      "text": "You will come to appreciate the power of ranged attacks",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Mechanics"
+    },
+    {
+      "text": "The artwork and graphics are incredibly dated",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visuals"
+    },
+    {
+      "text": "Every dungeon follows the same basic pattern of going through three or four mob battles before fighting some kind of boss",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "The camera might suddenly end up behind a piece of the environment",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Camera Mechanics"
+    },
+    {
+      "text": "The live service model is pointless",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Monetization Strategy"
+    },
+    {
+      "text": "The combat is dull, the story bland, and it is just forgettable",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "The armour does similar but it all looks a bit ugly, so it\u2019s best to use a skin that hides what the armour look like.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visuals"
+    },
+    {
+      "text": "There's a demo to try Babylon\u2019s Fall may teach you the value of money, and what not to waste it on",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Monetization Strategy"
+    },
+    {
+      "text": "Even if Babylon\u2019s Fall was a free-to-play game I still wouldn\u2019t spend my time on it. I do wonder what\u2019s happened during its development for this to be the result.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    }
+  ]
+}

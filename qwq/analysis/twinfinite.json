@@ -1,0 +1,316 @@
+{
+  "reviews": [
+    {
+      "text": "it\u2019s almost impossible to recommend this over the other two games",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Competitive Positioning"
+    },
+    {
+      "text": "inexplicably warning that any character created can\u2019t be deleted later",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Character Creation"
+    },
+    {
+      "text": "the game doesn\u2019t give you enough context on your character and the game doesn\u2019t even allow for a way to look back on story events later if you want a refresher",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "Quick Match is nice for completinging missions with a group you didn\u2019t have to organize yourself",
+      "category": "Gameplay loop",
+      "sentiment": "positive",
+      "sub_category": "Co-op Functionality"
+    },
+    {
+      "text": "you can\u2019t know what mission you are going to get",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Design"
+    },
+    {
+      "text": "missions themselves are horrendously bland. You find yourself going corridor to corridor along linear pathways until you hit a battle",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the game doesn\u2019t look good",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "jumping is so floaty that it has a glide to it. As for the air dash, it is so hopelessly short that more often than not you\u2019ll find yourself falling into exactly what you hoped to jump over",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Movement Mechanics"
+    },
+    {
+      "text": "four separate weapons to use interchangeably is a neat idea",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "combat becomes routine, and that is something you can certainly blame on mission layout",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Flow"
+    },
+    {
+      "text": "Bablyon\u2019s Fall feels like it was made to check a box, because it is just so empty and slapped together",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Game Design"
+    },
+    {
+      "text": "character design is awful and leaves everyone devoid of expression",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "important story context given by NPCs you have no reason to seek out",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "the part of the equipment menu that gives you a rundown of your actual stats, but it is relegated to the bottom of the menu in extremely small font. There is no pop-up tutorial explaining any of this so you have to figure it out on your own",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Interface Design"
+    },
+    {
+      "text": "you don\u2019t learn how to craft gear until what feels like too far into the game. ... It isn\u2019t until after the final boss that you unlock the function to upgrade gear",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "better gear has to be sacrificed for worse but higher power level pieces",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "assuming it survives this rocky launch",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Launch Stability"
+    },
+    {
+      "text": "the game\u2019s oil painting aesthetic makes textures look bad",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "important story context given by NPCs you have no reason to seek out",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "the part of the equipment menu that gives you a rundown of your actual stats, but it is relegated to the bottom of the menu in extremely small font",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Interface Design"
+    },
+    {
+      "text": "the game\u2019s battle pass may be the reason you can\u2019t delete characters",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass Mechanics"
+    },
+    {
+      "text": "the game\u2019s oil painting aesthetic",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Aesthetic Execution"
+    },
+    {
+      "text": "the game\u2019s story\u2019s feral change requires talking to NPCs you aren\u2019t guided to",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "the game\u2019s UI hides essential stats",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Interface Design"
+    },
+    {
+      "text": "the game\u2019s technical issues with movement",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Movement Mechanics"
+    },
+    {
+      "text": "the game\u2019s combat\u2019s Spectral Attacks are a neat idea",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "the game\u2019s combat becomes repetitive",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Flow"
+    },
+    {
+      "text": "the game\u2019s delayed crafting access",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "the game\u2019s loot system requires sacrificing of better gear for higher power levels pieces",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "the game\u2019s technical launch is rocky",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Launch Stability"
+    },
+    {
+      "text": "the game\u2019s character models are devoid of expression",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "the game\u2019s UI hides essential stats in small font",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Interface Design"
+    },
+    {
+      "text": "the game\u2019s story lacks context without NPC interaction",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "the game\u2019s technical movement issues",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Movement Mechanics"
+    },
+    {
+      "text": "the game\u2019s combat\u2019s Spectral Attacks are a neat idea",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "the game\u2019s repetitive combat due to mission layout",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Flow"
+    },
+    {
+      "text": "the game\u2019s delayed gear upgrades until post-final boss",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "the game\u2019s loot system forces players to sacrifice better gear for higher power levels",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "the game\u2019s technical launch is rocky",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Launch Stability"
+    },
+    {
+      "text": "the game\u2019s character design is awful",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "the game\u2019s UI hides stats in small font",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Interface Design"
+    },
+    {
+      "text": "the game\u2019s story\u2019s feral change requires unguided NPC interactions",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "the game\u2019s technical movement issues",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Movement Mechanics"
+    },
+    {
+      "text": "the game\u2019s combat\u2019s Spectral Attacks\u2019s independence from body allows attacking while down",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon Systems"
+    },
+    {
+      "text": "the game\u2019s repetitive combat due to mission layout",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Flow"
+    },
+    {
+      "text": "the game\u2019s delayed crafting access",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Progression System"
+    },
+    {
+      "text": "the game\u2019s loot system\u2019s power level prioritization forces gear sacrifices",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "the game\u2019s technical launch is rocky",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Launch Stability"
+    },
+    {
+      "text": "the game\u2019s character models lack expression",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Character Design"
+    },
+    {
+      "text": "the game\u2019s UI hides stats without tutorial",
+      "category": "UI/UX",
+      "sentiment": "negative",
+      "sub_category": "Interface Design"
+    },
+    {
+      "text": "the game\u2019s story\u2019s feral change requires unguided NPC interaction",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Delivery"
+    },
+    {
+      "text": "the game\u2019s technical movement issues",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Movement Mechanics"
+    }
+  ]
+}

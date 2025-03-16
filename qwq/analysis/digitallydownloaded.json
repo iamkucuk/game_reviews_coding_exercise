@@ -1,0 +1,160 @@
+{
+  "reviews": [
+    {
+      "text": "It's a great game shoved into a terrible one.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Game Structure"
+    },
+    {
+      "text": "the equipment system benefits from Platinum\u2019s usual level of refinement",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "the combat system benefits from Platinum\u2019s usual level of refinement",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Combat Refinement"
+    },
+    {
+      "text": "the live service format constantly disrupts immersion",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "the setting feels carefully researched and authentic",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "World Building"
+    },
+    {
+      "text": "bosses are balanced for 4 players but forced into 2-player scenarios",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Boss Balance"
+    },
+    {
+      "text": "the soundtrack has some of the best fantasy RPG music since FFXIV",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music"
+    },
+    {
+      "text": "launched alongside Horizon and Elden Ring",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Release Strategy"
+    },
+    {
+      "text": "storytelling feels disjointed with key characters disappearing",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "random players rushing through levels breaks immersion",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Dynamics"
+    },
+    {
+      "text": "content is rich with distinct weapon types and mythological lore",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Content Quantity"
+    },
+    {
+      "text": "premium currency devalues conch shells early",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Currency Mechanics"
+    },
+    {
+      "text": "potential for community growth exists despite flaws",
+      "category": "Longevity/Player Retention",
+      "sentiment": "positive",
+      "sub_category": "Community Potential"
+    },
+    {
+      "text": "constant monetization prompts break immersion",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Monetization Prompts"
+    },
+    {
+      "text": "levels have interesting quirks despite linearity",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "decision to force live service structure was driven by monetization priorities",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Monetization Strategy"
+    },
+    {
+      "text": "boss' visual design combines holy/demonic elements effectively",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Enemy Design"
+    },
+    {
+      "text": "matchmaking hubs break narrative flow",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Narrative Integration"
+    },
+    {
+      "text": "loot drops are frequent and encourage experimentation",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "live service elements overshadow core experience",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Live Service Integration"
+    },
+    {
+      "text": "the art style's Renaissance-esque finish creates a biblical atmosphere",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monsters' designs are inspired by myths of the era",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Mythological Research"
+    },
+    {
+      "text": "the narrative is organized into distinct chapters with self-contained arcs",
+      "category": "Story",
+      "sentiment": "positive",
+      "sub_category": "Narrative Structure"
+    },
+    {
+      "text": "the game\u2019s structure allows for episodic play like D&D sessions",
+      "category": "Gameplay Loop",
+      "sentiment": "positive",
+      "sub_category": "Session Structure"
+    },
+    {
+      "text": "the combat's core mechanics are solid and enjoyable",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Core Mechanics"
+    },
+    {
+      "text": "the combat is better balanced when replaying missions",
+      "category": "Balancing",
+      "sentiment": "positive",
+      "sub_category": "Replay Balance"
+    }
+  ]
+}

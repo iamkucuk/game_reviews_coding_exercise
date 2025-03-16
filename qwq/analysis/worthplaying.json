@@ -1,0 +1,154 @@
+{
+  "reviews": [
+    {
+      "text": "Babylon's Fall is an online multiplayer action RPG where you take on the role of a Sentinel and face ferocious enemies and dreadful dungeons alongside companions as you journey to reach the peak of the Ziggurat. I've rarely had issues finding words for any review in the past, but Babylon's Fall is a different beast. The game is not broken to the point where it's unplayable, but it's also light-years away from being enjoyable or rewarding.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Overall Enjoyment"
+    },
+    {
+      "text": "It's an exceedingly mediocre experience that doesn't find good ways to reward your time except for a basic loot-loop that is a copy of any live service game.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Loot-Loop Repetitiveness"
+    },
+    {
+      "text": "Overloaded with battle passes and premium in-game currency, the little bit of gameplay here falters rather quickly due to otherwise repetitive mission structures, poor visuals, an awfully uninteresting story, and not much else to incentivize spending time in the world.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "Babylon's Fall has a watercolor painting-style presentation that doesn't work in its favor. It looks murky all the time, with very low-resolution textures that are devoid of detail, so things look unsharp and unattractive. The dark color palette with a penchant for browns doesn't help, either.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the story doesn't hold your attention with either its content or its visuals. I don't necessarily mind a paper-thin premise or story, but this feels especially lackluster in presentation and execution.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "Babylon's Fall is a button-masher title at heart. It won't scratch the itch that titles like Nier or Bayonetta left behind after the final credits rolled.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Depth"
+    },
+    {
+      "text": "the game gives new gear, and rinse and repeat. It's frankly not original or engaging most of the time in what it does.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mission Repetitiveness"
+    },
+    {
+      "text": "the game's visual style and execution... either the game did not have enough budget to properly make the visual style work, or it was rushed \u2014 or a combination of the two.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Artistic Vision Execution"
+    },
+    {
+      "text": "the story doesn't make sense. In essence, you can create your own character with a standard creation tool, and the story kicks off. Fused with a mighty apparatus called a Gideon Coffin, which seems to melt into your spinal cord, you take up arms as a Sentinel. Your job is to protect Babylon from the forces of the Gallus, and that is pretty much all you need to know.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "the combat \u2014 the meat and potatoes of the experience \u2014 is slightly more convincing in comparison. Bablyon's Fall is a button-masher title at heart. It won't scratch the itch that titles like Nier or Bayonetta left behind after the final credits rolled.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat System Design"
+    },
+    {
+      "text": "the game gives you glimpses into the undoubted talent of the team that worked on this. Some character models and enemy designs, especially of bosses, look quite intriguing if you ignore the distracting visuals. If the story and setting were able to compensate for its messy visual style, the experience wouldn't be too bad. It doesn't help to sit through mostly inanimate cut scenes that are not great to look at while listening to an uninteresting story that doesn't make sense.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Presentation"
+    },
+    {
+      "text": "the game was released as a full-price title with a separate battle pass and a deluxe edition that scratches the $100 mark.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "I found single matches here and there, but with the quick match function, I rarely managed to get a full party. Any time I wanted to play the next level that I had unlocked, I was usually unable to find anyone to play with online.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Online Multiplayer Issues"
+    },
+    {
+      "text": "the fact that this is required doesn't sit well with me, but that wasn't all. At one point, an error on the Square Enix website prevented me from resetting the password on my account, which can only be done once every 24 hours. That locked me out of being able to play the game for an entire day.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Account Management"
+    },
+    {
+      "text": "the game gives you glimpses of the familiar Platinum Games talent involved, teasing the game that could have been, but it ultimately fails to make an effort except for microtransactions.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Overall Enjoyment"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Depth"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Online Multiplayer Issues"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Color Palette/Design"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Content Quantity"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Enemy Health Balance"
+    },
+    {
+      "text": "the game's failure to be engaging, rewarding, or nice to look at.",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Player Retention Issues"
+    }
+  ]
+}

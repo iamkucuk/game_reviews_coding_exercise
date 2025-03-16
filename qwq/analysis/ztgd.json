@@ -1,0 +1,580 @@
+{
+  "reviews": [
+    {
+      "text": "combat in Babylon\u2019s Fall can be fun initially but grows repetitive and stale quickly.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Variety"
+    },
+    {
+      "text": "the use of 4 weapons at once is fun in practice and allows for some cool damage setups but little else.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Weapon Mechanics"
+    },
+    {
+      "text": "combat is extremely limited with most combos happening just by holding a button.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combo System"
+    },
+    {
+      "text": "the combat feels heavy; while players can knock enemies into the air, can\u2019t juggle enemies like past Platinum action games.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Fluidity"
+    },
+    {
+      "text": "the designs of most of them are boring and repetitive.",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Enemy Design"
+    },
+    {
+      "text": "the graphics are the ugliest game... the brush stroke effect is a mess.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the cash shop is very prominently displayed and explained.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the game is a GaaS but priced at $59.99",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is pretty all over the place",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the co-op is boring, no cool team up combos",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the early game is monotonous, can\u2019t craft weapons until later",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the technical brush strokes cause nausea in the demo but toned down",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game's art style is a bland, dull mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization wants you to spend on cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the story is worse than Elden Ring's approach",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the combat lacks the fluidity of past Platinum titles like Astral Chain",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Fluidity"
+    },
+    {
+      "text": "the level design has empty hallways leading to spawns",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the game feels basic, nothing about it screams its asking price",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the early game is so bad that the average person will be turned off before reaching the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the technical brush strokes are nauseating in the demo but toned down",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game's art style is a moving oil painting mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization elements are aggressive with cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the story is not done as well as Elden Ring",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the co-op only allows you to get through levels faster",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the early game is so bad that players will be turned off before the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the game is hands down the ugliest next-gen title",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the combat's combos are just holding buttons",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combo System"
+    },
+    {
+      "text": "the game feels basic, nothing about it screams its asking price",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the level design has empty hallways leading to spawns",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the story is not done as well as Elden Ring",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the cash shop is very prominently displayed and explained",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the technical brush strokes are nauseating in the demo but toned down",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game's art style is a moving oil painting mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization wants you to spend money on cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the early game is so bad that the average person will be turned off before getting to the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the co-op is boring, no cool team up combos",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the game is a GaaS but priced at $59.99",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is pretty all over the place",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the combat lacks the fluidity of past Platinum titles like Astral Chain",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Fluidity"
+    },
+    {
+      "text": "the level design has empty hallways leading to spawns",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the game's monetization is aggressive with battle passes and cash shop",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Passes"
+    },
+    {
+      "text": "the early game is so bad that players will be turned off before the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the technical brush strokes effect appears in the background texture",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game feels basic, nothing about it screams its asking price",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is not done as well as Elden Ring",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the co-op only allows you to get through each awful level faster",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the game is hands down the ugliest next-gen title",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the combat's combos are just holding buttons",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combo System"
+    },
+    {
+      "text": "the game's monetization elements are aggressive with cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the early game is so bad that the average person will be turned off before getting to the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the technical brush stroke effect was nauseating in the demo",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game's art style is a moving oil painting mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization wants you to spend on cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the early game is so bad that players will be turned off before the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the co-op is boring, no cool team combos",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the game is a GaaS but priced at $59.99",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is pretty all over the place",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the combat lacks the fluidity of past Platinum titles like Astral Chain",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Fluidity"
+    },
+    {
+      "text": "the level design has empty hallways leading to spawns",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the game feels basic, nothing about it screams its asking price",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the technical brush stroke effect appears in the background texture",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game's art style is a bland, dull mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization elements are aggressive with cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the early game is so bad that the average person will be turned off before reaching the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the co-op is boring, there aren\u2019t cool team up combos",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the game is a GaaS but priced at $59.99",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is not done as well as Elden Ring",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the combat's true power of the Gideon Coffin isn\u2019t available until later",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the technical brush stroke effect causes nausea in motion",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game\u2019s art style is an overly animated mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization wants you to spend on cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the early game is so bad that players will be turned off before the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the co-op is boring, no teamwork mechanics",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the game is a GaaS but priced at $59.99",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is worse than Elden Ring's approach",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the combat lacks the fluidity of past Platinum games",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Fluidity"
+    },
+    {
+      "text": "the level design has empty hallways leading to spawns",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the game feels basic, nothing about it screams its asking price",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the technical brush strokes are nauseating in the demo",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game's art style is a bland, dull mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization elements are aggressive with cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the early game is so bad that the average person will be turned off before reaching the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the co-op only allows you to get through levels faster",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the game is a GaaS but priced at $59.99",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is not done as well as Elden Ring",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the combat's true power of the Gideon Coffin isn\u2019t available until later",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the technical brush strokes are nauseating in the demo",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Visual Glitches"
+    },
+    {
+      "text": "the game's art style is a moving oil painting mess",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the monetization wants you to spend on cosmetics",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Microtransactions"
+    },
+    {
+      "text": "the early game is so bad that players will be turned off before the good parts",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "the co-op is boring, no teamwork mechanics",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Mechanics"
+    },
+    {
+      "text": "the game is a GaaS but priced at $59.99",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    },
+    {
+      "text": "the story is worse than Elden Ring's approach",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Cohesion"
+    },
+    {
+      "text": "the combat lacks the fluidity of past Platinum titles like Astral Chain",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Fluidity"
+    },
+    {
+      "text": "the level design has empty hallways sections",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the game feels basic, nothing about it screams its asking price",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pricing Strategy"
+    }
+  ]
+}

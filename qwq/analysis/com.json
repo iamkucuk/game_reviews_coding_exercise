@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "text": "burnt mess that does nothing but induce boredom",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Monotony"
+    },
+    {
+      "text": "barebones character creation system full of caricatures",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Quest Design"
+    },
+    {
+      "text": "forgettable narrative and characters",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "action is far too slow for a Platinum game",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Pacing"
+    },
+    {
+      "text": "uninspiring visual identity",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Cohesion"
+    },
+    {
+      "text": "texture errors and awkward physics",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Graphics Glitches"
+    },
+    {
+      "text": "microtransactions and a season pass exist to entice players to spend their money",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Freemium Mechanics"
+    },
+    {
+      "text": "feels like a mobile title stretched thin across a console game",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Mobile Porting Issues"
+    },
+    {
+      "text": "barely any variety across each quest",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Quest Repetition"
+    },
+    {
+      "text": "Solid framerates",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Performance"
+    },
+    {
+      "text": "load times are decent",
+      "category": "Technical Problems",
+      "sentiment": "positive",
+      "sub_category": "Loading Times"
+    },
+    {
+      "text": "launched barely a week after Elden Ring\u2019s launch",
+      "category": "Launch Timing",
+      "sentiment": "negative",
+      "sub_category": "Competitive Release Timing"
+    },
+    {
+      "text": "menus have a dated, freemium look",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Design"
+    },
+    {
+      "text": "boss phases take forever to overcome as the have the exact same health as co-op experiences",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Encounter Design"
+    },
+    {
+      "text": "crafting your own items should have been there from the get-go",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Content Pacing"
+    },
+    {
+      "text": "voice actors seemed bored with the concept",
+      "category": "Sound Design",
+      "sentiment": "negative",
+      "sub_category": "Voice Acting"
+    },
+    {
+      "text": "no balancing for solo players",
+      "category": "Balancing",
+      "sentiment": "negative",
+      "sub_category": "Party Size Impact"
+    },
+    {
+      "text": "the season pass itself is laughable, as your progress is determined by the daily or weekly quests you complete and not general XP based on enemies defeated",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Season Pass Progression"
+    },
+    {
+      "text": "a tiny network status icon constantly flashing in the top right",
+      "category": "UI",
+      "sentiment": "negative",
+      "sub_category": "Menu Design"
+    },
+    {
+      "text": "a combination of poorly defined ideas and a lacklustre sense of visual identity",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Conceptual Clarity"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "text": "Although there's some variety in enemies and environments, a lot of Babylon's Fall feels the same, making it a bit repetitive over time.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "Combat is the main focus in Babylon's Fall as there isn't much else to the game than fighting hordes of enemies through similarly laid out levels.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Combat-Centric Design"
+    },
+    {
+      "text": "the problem with using elemental damage comes with the inability to craft anything at this point in the game.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Resource Management"
+    },
+    {
+      "text": "the rewards of completing Babylon's Fall aren't worth the effort of going through the unbearably repetitive gameplay.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Reward System"
+    },
+    {
+      "text": "the oil-paint art style of the game makes it difficult to distinguish anything in combat, especially in the darker levels.",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Clarity"
+    },
+    {
+      "text": "the platforming challenges are a way to break up the constant combat, but with not much difference between levels, it's hard to avoid repetition.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "the Battle Pass progression is extremely slow... most rewards are more easily obtained from other activities.",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass Design"
+    },
+    {
+      "text": "combat feels like a long sequence of button-mashing for the sake of progression.",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Variety"
+    },
+    {
+      "text": "the only way to test weapon combinations is by starting a quest, causing backtracking or abandoning quests if the loadout is ineffective.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Progression Mechanics"
+    },
+    {
+      "text": "missions and orders require replaying levels, leading to grinding.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Requirements"
+    },
+    {
+      "text": "the campaign is a string of indiscernible combat encounters with a few big boss fights.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Content Homogeneity"
+    },
+    {
+      "text": "three Sentinel factions to choose from at the start of Babylon's Fall. Huysian Sentinels start with a sword, Agavian have a hammer, and Geleilion use a bow. All can use any weapons later.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Character Customization"
+    },
+    {
+      "text": "Gideon Coffins can change or kill the host if they aren't strong enough.",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Progression Risk"
+    },
+    {
+      "text": "the Volcanic Cloister introduces elemental damage susceptibilities but crafting is impossible early in the game",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Progression Obstacles"
+    },
+    {
+      "text": "the only way to test weapon combinations is by starting a quest, causing backtracking or abandoning quests if the loadout is ineffective",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Progression Mechanics"
+    },
+    {
+      "text": "the oil-paint art style makes it hard to distinguish enemies in darker levels",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Clarity"
+    },
+    {
+      "text": "missions and orders require replaying levels, leading to grinding",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Grinding Requirements"
+    },
+    {
+      "text": "the Battle Pass's rewards are mostly cosmetic and easily obtained elsewhere",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Battle Pass Design"
+    },
+    {
+      "text": "the campaign is a string of indiscernible combat encounters with few unique environments",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Environmental Variety"
+    },
+    {
+      "text": "the Gideon Coffin system's spectral attacks add variety but are hampered by poor visual clarity",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanic Implementation"
+    }
+  ]
+}

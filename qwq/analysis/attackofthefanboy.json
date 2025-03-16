@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "text": "There are things to enjoy about Babylon\u2019s Fall, but a plethora of issues keep the enjoyment levels lower than your growing levels of frustration with the game.",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Gameplay Experience"
+    },
+    {
+      "text": "The visual style... just doesn\u2019t hit the mark as well as it should, blurry textures, jagged edges, and boring dungeon design",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visuals"
+    },
+    {
+      "text": "Armor designs... Vanity Items... flashy garments",
+      "category": "Art Design/Direction",
+      "sentiment": "positive",
+      "sub_category": "Visuals"
+    },
+    {
+      "text": "a killer soundtrack",
+      "category": "Sound Design",
+      "sentiment": "positive",
+      "sub_category": "Music/Soundtrack"
+    },
+    {
+      "text": "excellent boss design and a killer soundtrack",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Boss Fights"
+    },
+    {
+      "text": "Microtransactions... $15... Garaz shop",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Purchases"
+    },
+    {
+      "text": "Battle Pass... $10 per pass",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Subscription/Passes"
+    },
+    {
+      "text": "combat lacks punch... button mashing",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Mechanics"
+    },
+    {
+      "text": "linear path from A to B... light platforming",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "Matchmaking... cumbersome... no voice chat",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Functionality"
+    },
+    {
+      "text": "grindy... chore to play",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Grind/Repetition"
+    },
+    {
+      "text": "account creation... Square Enix Members... confusing",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Account Management"
+    },
+    {
+      "text": "no cross-server play",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Functionality"
+    },
+    {
+      "text": "three class slots... can\u2019t delete characters",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Progression Systems"
+    },
+    {
+      "text": "paper-thin writing and laughable voice acting",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Quality"
+    },
+    {
+      "text": "Platinum\u2019s signature combat feel... high octane combat... failed to meet expectations",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Design"
+    },
+    {
+      "text": "overly linear dungeons... uninspired worlds",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "microtransactions riddled costumes, items, and more",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Cosmetic Purchases"
+    },
+    {
+      "text": "matchmaking issues... screen-filling attacks",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Multiplayer Functionality"
+    },
+    {
+      "text": "plagued by broken matchmaking and technical oversights",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Matchmaking"
+    }
+  ]
+}

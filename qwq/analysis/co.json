@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "text": "the worst game Platinum has ever made but one of the worst live service titles of any kind",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Content Quality"
+    },
+    {
+      "text": "the combat never evolves beyond its initial state",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Variety"
+    },
+    {
+      "text": "the jump doesn\u2019t seem to work properly, with a weird input lag",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Input/Control Issues"
+    },
+    {
+      "text": "the graphics underneath are under-detailed and blandly designed like a FromSoftware game with all the imagination drained out",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "the game is riddled with microtransactions and a premium battle pass",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Microtransactions"
+    },
+    {
+      "text": "the story is told in very broad strokes",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Depth"
+    },
+    {
+      "text": "four weapons in play at once is an interesting idea",
+      "category": "Combat",
+      "sentiment": "positive",
+      "sub_category": "Weapon System"
+    },
+    {
+      "text": "the game is \u00a360 but with microtransactions for better gear",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Game Pricing"
+    },
+    {
+      "text": "enemies spawn without warning and bosses have tedious health bars",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Enemy Design"
+    },
+    {
+      "text": "the art style combines Mesopotamian setting with Renaissance painting filter",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Consistency"
+    },
+    {
+      "text": "repetitive gameplay loop of arenas and linear corridors",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Repetitiveness"
+    },
+    {
+      "text": "loot system uninteresting with microtransactions for better gear",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "spectral weapons float weirdly and look silly",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Aesthetic"
+    },
+    {
+      "text": "four-player co-op but can\u2019t change loadout mid-mission",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Functionality"
+    },
+    {
+      "text": "the game is a live service failure with poor retention",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Live Service Design"
+    },
+    {
+      "text": "combat is dull and mechanical, feeling like a chore",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Combat Engagement"
+    },
+    {
+      "text": "bosses are tedious to defeat due to high health without challenge",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Boss Design"
+    },
+    {
+      "text": "the game\u2019s price is \u00a359.99 but requires real money for better gear",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Win Mechanics"
+    },
+    {
+      "text": "the art style\u2019s Renaissance filter clashes with the setting",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Consistency"
+    },
+    {
+      "text": "the game\u2019s repetitive arena-based progression",
+      "category": "Gameplay Loop",
+      "sentiment": "negative",
+      "sub_category": "Progression System"
+    }
+  ]
+}

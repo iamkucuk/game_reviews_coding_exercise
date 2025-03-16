@@ -1,0 +1,196 @@
+{
+  "reviews": [
+    {
+      "text": "generic dark fantasy storyline is pointless",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Originality"
+    },
+    {
+      "text": "worst-in-class textures and character models suck any visual appeal out of what could have been an interesting painted-canvas art style",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "Combat and level design are both competent but plain in single-player or co-op, with just enough good ideas sprinkled in to keep things from immediately growing stale\u2026 though it inevitably does",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "running from point A to point B, navigating linear corridors as you race to your objective",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Level Design"
+    },
+    {
+      "text": "jumping... input lag, coupled with an unusually flat arc, makes gauging jumps more frustrating than it should be",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Controls"
+    },
+    {
+      "text": "the cycle grows tedious as you repeat it dozens of times",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Endgame Content"
+    },
+    {
+      "text": "it\u2019s always disappointing to see pay to win scenarios",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Win"
+    },
+    {
+      "text": "story... exposition-heavy still images, zooming from one fibrous picture frame to another",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "hints of a distinctive art style are wasted on drab environments and jilted action",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Environmental Design"
+    },
+    {
+      "text": "combat... devolves into extended bouts of pure button-mashing while you watch health bars slowly decrease",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "joining up with a group of Sentinels has no strategic value beyond making missions pass more quickly",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Synergy"
+    },
+    {
+      "text": "everything is covered in textures that genuinely would\u2019ve been unimpressive on the PS3",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "perpetual treadmill of increasing your power to take on greater challenges keeps the campaign afloat, but here it\u2019s bare bones and rarely does it offer a twist to make progression compelling",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "Babylon\u2019s Fall feels like the generic store brand of more famous games that came before",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Originality"
+    },
+    {
+      "text": "the ability to level up a favorite piece of equipment is held until late in the campaign, which is a smart decision that forces you to jump around between different weapon combinations as you earn more powerful loot instead of just finding one that works and sticking to it",
+      "category": "Content",
+      "sentiment": "positive",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "the action of jumping... input lag makes gauging jumps frustratinging",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Controls"
+    },
+    {
+      "text": "the endgame... high-level variations on missions... become available as opportunities to earn the most powerful gear. Skirmishes may contain Infamous enemies that drop special loot, while Sieges emphasize combat or platforming. You also unlock new attack patterns and alternative abilities for your Gideon Coffin. Given how repetitive the campaign missions got before I reached the endgame, holding these more interesting additions until the end is a questionable choice",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Endgame Content"
+    },
+    {
+      "text": "the worst-in-class textures and character models",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the combat is competent, but not engaging and prone to degrading into repetitive button mashing",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "the world of Babylon\u2019s Fall could have been constructed via Mad Libs",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Originality"
+    },
+    {
+      "text": "the Gideon Coffin\u2019s weapon slots can dramatically alter damage output and survivability, but combat devolves into button mashing against tougher enemies",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Mechanics"
+    },
+    {
+      "text": "the endgame\u2019s Skirmishes and Sieges are variations on missions, but they do little to change the actual experience of playing",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Endgame Content"
+    },
+    {
+      "text": "the game\u2019s perpetual treadmill of power progression is bare bones and rarely compelling",
+      "category": "Content",
+      "sentiment": "negative",
+      "sub_category": "Loot System"
+    },
+    {
+      "text": "the game\u2019s art style\u2019s potential is wasted on drab environments",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Environmental Design"
+    },
+    {
+      "text": "the game\u2019s co-op lacks strategic value beyond speeding up missions",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Synergy"
+    },
+    {
+      "text": "the game\u2019s jumping mechanics have input lag and poor arc, making them frustratinging",
+      "category": "Technical Problems",
+      "sentiment": "negative",
+      "sub_category": "Controls"
+    },
+    {
+      "text": "the game\u2019s endgame offers no meaningful twists to combat or progression",
+      "category": "Longevity/Player Retention",
+      "sentiment": "negative",
+      "sub_category": "Endgame Content"
+    },
+    {
+      "text": "the game\u2019s story is told through exposition-heavy still images with no emotional connection",
+      "category": "Story",
+      "sentiment": "negative",
+      "sub_category": "Narrative Engagement"
+    },
+    {
+      "text": "the game\u2019s art direction\u2019s potential is overshadowed by poor textures and models",
+      "category": "Art Design/Direction",
+      "sentiment": "negative",
+      "sub_category": "Visual Quality"
+    },
+    {
+      "text": "the game\u2019s combat devolves into repetitive button mashing against tougher enemies",
+      "category": "Combat",
+      "sentiment": "negative",
+      "sub_category": "Engagement"
+    },
+    {
+      "text": "the game\u2019s co-op lacks strategic roles like tanking or support, reducing it to just more bodies",
+      "category": "Gameplay loop",
+      "sentiment": "negative",
+      "sub_category": "Co-op Synergy"
+    },
+    {
+      "text": "the game\u2019s endgame\u2019s pay-to-win elements include performance-affecting rewards",
+      "category": "Monetization",
+      "sentiment": "negative",
+      "sub_category": "Pay-to-Win"
+    }
+  ]
+}

@@ -217,7 +217,7 @@ def execute_llm_for_json(llm, prompt_template, inputs, max_retries: int = 5):
             raw_response = raw_response.content
             raw_response = raw_response.replace('```json', '')  # Remove code block formatting
             raw_response = raw_response.replace('```', '')  # Remove code block formatting
-            raw_response = raw_response.split("</think>", 1)[1]
+            raw_response = raw_response.split("</think>", 1)[-1]
             # Try to parse JSON directly
             try:
                 json_data = json.loads(raw_response)
